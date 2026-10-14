@@ -1,0 +1,18 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated artifacts (regenerated each run)
+raw_posts.json
+extract_cache.json
+/digest.json
+# site/ is committed: it is what Cloudflare Pages serves, and site/archive/YYYY-MM-DD/
+# holds the snapshots that week-over-week change is computed from.
+
+# Moved aside during cleanup
+_to_delete/

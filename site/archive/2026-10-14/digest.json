@@ -1,0 +1,594 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T18:19:05.433263+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": null,
+  "posts_analyzed": 250,
+  "brief": "The trending games this week include GTA 6 and Lucia, with leaks and gameplay details being discussed on Reddit, while the launch of Enshrouded is also being talked about on PlayStation 3 and PC. The delay of Epic Games' Star Wars and Marvel shooter is also a topic of discussion, as well as Charlie Cox's involvement in a new SEGA game and the cancellation of a potential port of Starfield to the Nintendo Switch.",
+  "games": [
+    {
+      "key": "gta 6",
+      "name": "GTA 6",
+      "trending_score": 6.49,
+      "heat": 42.08,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 8,
+      "engagement": 2218,
+      "platforms": {
+        "general": {
+          "mentions": 7,
+          "engagement": 2179
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 39
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GTA 6 marketing budget reportedly $150 million+",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x469l9/gta_6_marketing_budget_reportedly_150_million/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 755,
+          "num_comments": 279
+        },
+        {
+          "title": "GTA 6 Leak Reveals Collector\u2019s Map Reportedly Coming With Every Physical Copy",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x4cckt/gta_6_leak_reveals_collectors_map_reportedly/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 733,
+          "num_comments": 208
+        },
+        {
+          "title": "First ever footage of GTA 6 running at native 4k",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x46yks/first_ever_footage_of_gta_6_running_at_native_4k/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 85
+        }
+      ],
+      "rank": 1,
+      "why": "Reports and leaks about GTA 6's marketing budget and features."
+    },
+    {
+      "key": "lucia",
+      "name": "Lucia",
+      "trending_score": 4.12,
+      "heat": 16.94,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 2,
+      "engagement": 3770,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 3770
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Gameplay details from Lucia free-roam leak",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x35do5/gameplay_details_from_lucia_freeroam_leak/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1781,
+          "num_comments": 795
+        },
+        {
+          "title": "Lucia closeup GTA VI leak is out",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x3yqj1/lucia_closeup_gta_vi_leak_is_out/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 608,
+          "num_comments": 586
+        }
+      ],
+      "rank": 2,
+      "why": "Leaks of gameplay and footage from Lucia and GTA VI"
+    },
+    {
+      "key": "gta vi",
+      "name": "GTA VI",
+      "trending_score": 3.85,
+      "heat": 14.83,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 3,
+      "engagement": 1220,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 1220
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Lucia closeup GTA VI leak is out",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x3yqj1/lucia_closeup_gta_vi_leak_is_out/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 608,
+          "num_comments": 586
+        },
+        {
+          "title": "GTA VI",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x2lwji/gta_vi/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 22
+        },
+        {
+          "title": "Gameplay tidbits from the final GTA VI leak (End of the Road)",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x5q962/gameplay_tidbits_from_the_final_gta_vi_leak_end/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 4,
+          "num_comments": 0
+        }
+      ],
+      "rank": 3,
+      "why": "GTA VI leaks and gameplay details are being discussed on Reddit."
+    },
+    {
+      "key": "enshrouded",
+      "name": "Enshrouded",
+      "trending_score": 3.14,
+      "heat": 9.89,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 4,
+      "engagement": 33,
+      "platforms": {
+        "playstation": {
+          "mentions": 3,
+          "engagement": 31
+        },
+        "pc": {
+          "mentions": 1,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Enshrouded 1.0 - Launch Trailer",
+          "url": "https://reddit.com/r/PS5/comments/1x5vbhu/enshrouded_10_launch_trailer/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 23,
+          "num_comments": 6
+        },
+        {
+          "title": "Enshrouded 1.0 - Launch Trailer",
+          "url": "https://reddit.com/r/pcgaming/comments/1x5su5w/enshrouded_10_launch_trailer/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Enshrouded 1.0 - Launch Trailer",
+          "url": "https://reddit.com/r/PS5/comments/1x5sv22/enshrouded_10_launch_trailer/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 4,
+      "why": "The launch of Enshrouded 1.0 is being discussed."
+    },
+    {
+      "key": "the last of us",
+      "name": "The Last of Us",
+      "trending_score": 3.08,
+      "heat": 9.51,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 4942,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 4942
+        }
+      },
+      "top_posts": [
+        {
+          "title": "The Last of Us artist says GenAI will make us look at older games and \u201cmarvel at\u201d them just like \u201cold amazing buildings\u201d",
+          "url": "https://reddit.com/r/PS5/comments/1x3xwgh/the_last_of_us_artist_says_genai_will_make_us/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 4465,
+          "num_comments": 477
+        }
+      ],
+      "rank": 5,
+      "why": "The Last of Us game's artistic value and potential impact of GenAI on game development and appreciation."
+    },
+    {
+      "key": "star wars",
+      "name": "Star Wars",
+      "trending_score": 2.93,
+      "heat": 8.59,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 1979,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1979
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Jason Schreier: NEW: Epic Games has delayed its upcoming (not yet announced) Star Wars + Marvel shooter as it pivots to complete AI game development.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x49trl/jason_schreier_new_epic_games_has_delayed_its/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1370,
+          "num_comments": 609
+        }
+      ],
+      "rank": 6,
+      "why": "Epic Games' Star Wars and Marvel shooter has been delayed."
+    },
+    {
+      "key": "marvel",
+      "name": "Marvel",
+      "trending_score": 2.93,
+      "heat": 8.59,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 1979,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1979
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Jason Schreier: NEW: Epic Games has delayed its upcoming (not yet announced) Star Wars + Marvel shooter as it pivots to complete AI game development.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x49trl/jason_schreier_new_epic_games_has_delayed_its/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1370,
+          "num_comments": 609
+        }
+      ],
+      "rank": 7,
+      "why": "delay of upcoming Star Wars + Marvel shooter"
+    },
+    {
+      "key": "ai game",
+      "name": "AI game",
+      "trending_score": 2.93,
+      "heat": 8.59,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 1979,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1979
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Jason Schreier: NEW: Epic Games has delayed its upcoming (not yet announced) Star Wars + Marvel shooter as it pivots to complete AI game development.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x49trl/jason_schreier_new_epic_games_has_delayed_its/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1370,
+          "num_comments": 609
+        }
+      ],
+      "rank": 8,
+      "why": "Epic Games has delayed its upcoming Star Wars + Marvel shooter to focus on a different game."
+    },
+    {
+      "key": "sega game",
+      "name": "SEGA game",
+      "trending_score": 2.83,
+      "heat": 8.01,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 1102,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1102
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Charlie Cox leaks that he has recorded 40 hours of lines for a new SEGA game",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x1noij/charlie_cox_leaks_that_he_has_recorded_40_hours/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 909,
+          "num_comments": 193
+        }
+      ],
+      "rank": 9,
+      "why": "Charlie Cox's involvement in a new SEGA game"
+    },
+    {
+      "key": "starfield",
+      "name": "Starfield",
+      "trending_score": 2.82,
+      "heat": 7.96,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 1057,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1057
+        }
+      },
+      "top_posts": [
+        {
+          "title": "NateTheHate says Starfield Switch 2 port may have been cancelled",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x1u0m1/natethehate_says_starfield_switch_2_port_may_have/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 652,
+          "num_comments": 405
+        }
+      ],
+      "rank": 10,
+      "why": "Cancellation of a potential port of Starfield to the Nintendo Switch 2"
+    },
+    {
+      "key": "disney project",
+      "name": "Disney Project",
+      "trending_score": 2.74,
+      "heat": 7.51,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 671,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 671
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI",
+          "url": "https://reddit.com/r/PS5/comments/1x4a5d8/epic_games_delays_disney_project_asks_developers/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 499,
+          "num_comments": 172
+        }
+      ],
+      "rank": 11,
+      "why": "Epic Games' decision to delay Disney Project and ask for more AI usage is being discussed."
+    },
+    {
+      "key": "resident evil",
+      "name": "Resident Evil",
+      "trending_score": 2.73,
+      "heat": 7.45,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 631,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 631
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Resident Evil Veronica will be receiving DLC according to Dusk Golem",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x2sfy6/resident_evil_veronica_will_be_receiving_dlc/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 497,
+          "num_comments": 134
+        }
+      ],
+      "rank": 12,
+      "why": "Resident Evil DLC announcement"
+    },
+    {
+      "key": "veronica",
+      "name": "Veronica",
+      "trending_score": 2.73,
+      "heat": 7.45,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 631,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 631
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Resident Evil Veronica will be receiving DLC according to Dusk Golem",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x2sfy6/resident_evil_veronica_will_be_receiving_dlc/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 497,
+          "num_comments": 134
+        }
+      ],
+      "rank": 13,
+      "why": "Resident Evil Veronica DLC announcement"
+    },
+    {
+      "key": "hellraiser",
+      "name": "Hellraiser",
+      "trending_score": 2.7,
+      "heat": 7.29,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 537,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 537
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Hellraiser Revival is soooo good!",
+          "url": "https://reddit.com/r/PS5/comments/1x3mm4x/hellraiser_revival_is_soooo_good/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 372,
+          "num_comments": 165
+        }
+      ],
+      "rank": 14,
+      "why": "The Hellraiser video game is being discussed on Reddit because of its reception."
+    },
+    {
+      "key": "control",
+      "name": "Control",
+      "trending_score": 2.69,
+      "heat": 7.24,
+      "boost": 1.0,
+      "change_pct": null,
+      "is_new": false,
+      "mentions": 1,
+      "engagement": 510,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 510
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Players\u2019 Choice \u2013 Control Resonant voted September 2026\u2019s top new game",
+          "url": "https://reddit.com/r/PS5/comments/1x5vmdc/players_choice_control_resonant_voted_september/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 415,
+          "num_comments": 95
+        }
+      ],
+      "rank": 15,
+      "why": "Players are discussing Control Resonant's win as the top new game of September 2026."
+    }
+  ],
+  "heat_index": {
+    "the last of us": 9.506,
+    "lucia": 16.94,
+    "star wars": 8.591,
+    "marvel": 8.591,
+    "ai game": 8.591,
+    "gta vi": 14.831,
+    "sega game": 8.006,
+    "starfield": 7.964,
+    "gta 6": 42.075,
+    "disney project": 7.51,
+    "resident evil": 7.449,
+    "veronica": 7.449,
+    "hellraiser": 7.288,
+    "control": 7.236,
+    "destiny 1": 7.223,
+    "gears of war": 6.746,
+    "silent hill": 6.717,
+    "nier automata": 6.659,
+    "big walk": 6.525,
+    "wing commander 3": 6.403,
+    "ecc redline": 6.366,
+    "silver pines": 6.011,
+    "valor mortis": 5.779,
+    "tekken 8": 5.7,
+    "rockbeasts": 5.477,
+    "wonderful neoran valley": 5.317,
+    "over the hill": 4.989,
+    "ravenswatch": 4.638,
+    "fortnite": 7.247,
+    "unreal engine": 6.533,
+    "enshrouded": 9.886,
+    "laufey": 2.946,
+    "heroes of might and magic 3": 2.792,
+    "gta6": 2.609,
+    "arc raiders": 2.609,
+    "clive barkers hellraiser revival": 4.079,
+    "disco elysium": 4.079,
+    "grand theft auto v": 6.871,
+    "the legend of zelda": 2.386,
+    "antonblast": 2.099,
+    "red dead redemption 2": 2.099,
+    "minecraft": 2.099,
+    "world of tanks": 2.099,
+    "steel aces": 2.099,
+    "whimsical fantasy crafting rpg": 2.099,
+    "garrys mod": 2.099,
+    "helldivers 2": 2.099,
+    "grand theft auto 6": 2.099,
+    "007 first light": 2.099,
+    "dragons egg": 2.099,
+    "star citizen": 2.099,
+    "watch dogs": 2.099,
+    "the last of us 2": 2.099,
+    "valve index": 2.099,
+    "army of two": 2.099,
+    "overwatch": 2.099,
+    "metroid dread": 2.099,
+    "fire": 2.099,
+    "telltale": 2.099,
+    "grand theft auto vi": 3.792,
+    "ea sports college football": 2.099,
+    "battlefield 6": 5.079,
+    "mafia the old country": 3.386,
+    "horizon forbidden west": 3.386,
+    "mycopunk": 3.386,
+    "the witcher 3 remastered": 1.693,
+    "mafia 3": 1.693,
+    "peak": 1.693,
+    "red rooster": 1.693,
+    "gran turismo": 1.693,
+    "bully": 1.693,
+    "galactic racer": 1.693,
+    "psp": 1.693,
+    "the last of us remastered": 1.693,
+    "the witcher 3": 1.693,
+    "castlevania": 1.693,
+    "metro 2039": 1.693,
+    "indiana jones": 1.693,
+    "gr wildlands": 1.693,
+    "dirt rally": 1.693,
+    "mw4": 1.693,
+    "tainted grail the fall of avalon": 1.693,
+    "warzone": 1.693
+  }
+}
