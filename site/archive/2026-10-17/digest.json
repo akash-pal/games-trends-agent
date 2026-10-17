@@ -1,0 +1,594 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T19:29:21.411367+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": "2026-10-14",
+  "posts_analyzed": 250,
+  "brief": "The buzz this week is on Grand Theft Auto VI on PlayStation 2, with discussions about the launch trailer and soundtrack, and also on PC 1 and PlayStation 1, with excitement and controversy surrounding the game. Castlevania: Belmont's Curse is also trending on PlayStation 2 and PC 1, with character designs being discussed. Call of Duty is being compared to other games in a hypothetical purchasing scenario on PC 1, General 1, and PlayStation 1.",
+  "games": [
+    {
+      "key": "grand theft auto vi",
+      "name": "Grand Theft Auto VI",
+      "trending_score": 10.58,
+      "heat": 17.91,
+      "boost": 2.5,
+      "change_pct": 372,
+      "is_new": false,
+      "mentions": 2,
+      "engagement": 6810,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 6810
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Grand Theft Auto VI Launch Trailer",
+          "url": "https://reddit.com/r/PS5/comments/1x6l08o/grand_theft_auto_vi_launch_trailer/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 4457,
+          "num_comments": 812
+        },
+        {
+          "title": "Justice are the composers of the Grand Theft Auto VI OST",
+          "url": "https://reddit.com/r/PS5/comments/1x6la03/justice_are_the_composers_of_the_grand_theft_auto/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1378,
+          "num_comments": 163
+        }
+      ],
+      "rank": 1,
+      "why": "The launch trailer and the composers of the game's soundtrack are being discussed."
+    },
+    {
+      "key": "castlevania belmonts curse",
+      "name": "Castlevania: Belmont's Curse",
+      "trending_score": 8.05,
+      "heat": 10.38,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 269,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 267
+        },
+        "pc": {
+          "mentions": 1,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Castlevania: Belmont's Curse - Out Now Trailer | PS5 Games",
+          "url": "https://reddit.com/r/PS5/comments/1x6xgc2/castlevania_belmonts_curse_out_now_trailer_ps5/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 224,
+          "num_comments": 42
+        },
+        {
+          "title": "'We're Pretty Proud of It' \u2014 Castlevania: Belmont\u2019s Curse Devs Made the Game's Characters Hot on Purpose",
+          "url": "https://reddit.com/r/pcgaming/comments/1x864s8/were_pretty_proud_of_it_castlevania_belmonts/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "'We're Pretty Proud of It' \u2014 Castlevania: Belmont\u2019s Curse Devs Made the Game's Characters Hot on Purpose",
+          "url": "https://reddit.com/r/PS5/comments/1x8a1d8/were_pretty_proud_of_it_castlevania_belmonts/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 2,
+      "why": "The game's character designs are being discussed."
+    },
+    {
+      "key": "control resonant",
+      "name": "Control Resonant",
+      "trending_score": 7.47,
+      "heat": 8.92,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 2748,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 2748
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Control Resonant has reached 1 million copies sold",
+          "url": "https://reddit.com/r/PS5/comments/1x6pmg8/control_resonant_has_reached_1_million_copies_sold/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 2391,
+          "num_comments": 357
+        }
+      ],
+      "rank": 3,
+      "why": "1 million copies sold milestone"
+    },
+    {
+      "key": "call of duty",
+      "name": "Call of Duty",
+      "trending_score": 6.07,
+      "heat": 5.89,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 5,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 2
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 2
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 1
+        }
+      },
+      "top_posts": [
+        {
+          "title": "New COD is SOLID",
+          "url": "https://reddit.com/r/pcgaming/comments/1x82hx8/new_cod_is_solid/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "If I could only buy one of Ace Combat 8, COD MW 4 and GTA6, which one should I?",
+          "url": "https://reddit.com/r/Games/comments/1x8a67r/if_i_could_only_buy_one_of_ace_combat_8_cod_mw_4/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "If I had to buy only one of Ace Combat 8, COD and GTA 6, which one should I?",
+          "url": "https://reddit.com/r/PS5/comments/1x8a44y/if_i_had_to_buy_only_one_of_ace_combat_8_cod_and/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 4,
+      "why": "Comparison of Call of Duty to other games in a hypothetical purchasing scenario."
+    },
+    {
+      "key": "ace combat 8",
+      "name": "Ace Combat 8",
+      "trending_score": 5.85,
+      "heat": 5.48,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 4,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2
+        },
+        "playstation": {
+          "mentions": 2,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "If I could only buy one of Ace Combat 8, COD MW 4 and GTA6, which one should I?",
+          "url": "https://reddit.com/r/Games/comments/1x8a67r/if_i_could_only_buy_one_of_ace_combat_8_cod_mw_4/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "If I had to buy only one of Ace Combat 8, COD and GTA 6, which one should I?",
+          "url": "https://reddit.com/r/PS5/comments/1x8a44y/if_i_had_to_buy_only_one_of_ace_combat_8_cod_and/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        },
+        {
+          "title": "Anyone on the fence about Ace Combat 8\u2026",
+          "url": "https://reddit.com/r/PS5/comments/1x88akb/anyone_on_the_fence_about_ace_combat_8/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 5,
+      "why": "People are deciding which game to buy between Ace Combat 8, Call of Duty: Modern Warfare 4, and Grand Theft Auto 6."
+    },
+    {
+      "key": "nomad conquest",
+      "name": "Nomad Conquest",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 2,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Nomad Conquest (Alpha) \u2013 Storm the Castle. Fight for the Relic. | Gameplay Trailer",
+          "url": "https://reddit.com/r/pcgaming/comments/1x8gpbi/nomad_conquest_alpha_storm_the_castle_fight_for/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Nomad Conquest | Alpha Gameplay Trailer | Medieval Combat & Warfare #shorts",
+          "url": "https://reddit.com/r/pcgaming/comments/1x8givi/nomad_conquest_alpha_gameplay_trailer_medieval/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 6,
+      "why": "Release of an alpha gameplay trailer for Nomad Conquest, showing medieval combat and warfare."
+    },
+    {
+      "key": "call of dragons",
+      "name": "Call of Dragons",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 2
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Emperor WOLVES serwer 1060 call of dragons",
+          "url": "https://reddit.com/r/pcgaming/comments/1x8e5iv/emperor_wolves_serwer_1060_call_of_dragons/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Emperor WOLVES serwer 1060 call of dragons",
+          "url": "https://reddit.com/r/Games/comments/1x8e4xw/emperor_wolves_serwer_1060_call_of_dragons/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 7,
+      "why": "Players are discussing issues with the Emperor WOLVES server 1060 in Call of Dragons."
+    },
+    {
+      "key": "scam with your friends",
+      "name": "Scam with Your Friends",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 2,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Scam with Your Friends records your voice and hides its AI use",
+          "url": "https://reddit.com/r/pcgaming/comments/1x80zqi/scam_with_your_friends_records_your_voice_and/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Scam with Your Friends on Steam records your voice and hides its AI use",
+          "url": "https://reddit.com/r/pcgaming/comments/1x80xwp/scam_with_your_friends_on_steam_records_your/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 8,
+      "why": "Concerns about voice recording and AI use in the game Scam with Your Friends."
+    },
+    {
+      "key": "toy story 3",
+      "name": "Toy Story 3",
+      "trending_score": 5.05,
+      "heat": 4.08,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 3
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 1
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Toy Story: Retro Roundup & Toy Story 3: Complete Edition - Official Launch Trailer",
+          "url": "https://reddit.com/r/pcgaming/comments/1x7u5ft/toy_story_retro_roundup_toy_story_3_complete/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 2,
+          "num_comments": 1
+        },
+        {
+          "title": "Problem with saving in Toy Story 3 Complete Edition \u2013 please help me!",
+          "url": "https://reddit.com/r/playstation/comments/1x8hiia/problem_with_saving_in_toy_story_3_complete/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 9,
+      "why": "Saving issues in the Toy Story 3 Complete Edition game."
+    },
+    {
+      "key": "controller",
+      "name": "controller",
+      "trending_score": 4.6,
+      "heat": 3.39,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 2,
+      "platforms": {
+        "xbox": {
+          "mentions": 2,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Finally got a new controller! Had to retire my 5 year old one lol",
+          "url": "https://reddit.com/r/xbox/comments/1x8g2ie/finally_got_a_new_controller_had_to_retire_my_5/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 1,
+          "num_comments": 0
+        },
+        {
+          "title": "What actually is the star [\u2606] button used for on this 8BitDo controller?",
+          "url": "https://reddit.com/r/xbox/comments/1x8f3b9/what_actually_is_the_star_button_used_for_on_this/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 10,
+      "why": "New controller purchase and controller functionality"
+    },
+    {
+      "key": "gta6",
+      "name": "Gta6",
+      "trending_score": 2.83,
+      "heat": 3.79,
+      "boost": 1.45,
+      "change_pct": 45,
+      "is_new": false,
+      "mentions": 2,
+      "engagement": 3,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 2
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 1
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Who is excited for Gta6?",
+          "url": "https://reddit.com/r/pcgaming/comments/1x8736a/who_is_excited_for_gta6/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "What illegal deceptive practices ! PS5 GTA6!",
+          "url": "https://reddit.com/r/PS5/comments/1x8a55o/what_illegal_deceptive_practices_ps5_gta6/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 11,
+      "why": "Excitement and controversy surrounding GTA6"
+    },
+    {
+      "key": "gta 6",
+      "name": "GTA 6",
+      "trending_score": 1.85,
+      "heat": 13.64,
+      "boost": 0.5,
+      "change_pct": -68,
+      "is_new": false,
+      "mentions": 7,
+      "engagement": 14,
+      "platforms": {
+        "playstation": {
+          "mentions": 6,
+          "engagement": 12
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GTA 6 on original \u201cfat\u201d PS5 \u2014 internal SSD or Samsung 980 Pro?",
+          "url": "https://reddit.com/r/PS5/comments/1x6zbao/gta_6_on_original_fat_ps5_internal_ssd_or_samsung/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 7
+        },
+        {
+          "title": "GTA 6 in the game awards question.",
+          "url": "https://reddit.com/r/Games/comments/1x7w1en/gta_6_in_the_game_awards_question/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "If I had to buy only one of Ace Combat 8, COD and GTA 6, which one should I?",
+          "url": "https://reddit.com/r/PS5/comments/1x8a44y/if_i_had_to_buy_only_one_of_ace_combat_8_cod_and/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 12,
+      "why": "People are discussing GTA 6, specifically its technical specifications and upcoming game awards appearance."
+    }
+  ],
+  "heat_index": {
+    "grand theft auto vi": 17.911,
+    "control resonant": 8.919,
+    "assassins creed destiny": 7.061,
+    "black ops 7": 6.826,
+    "peak": 6.727,
+    "castlevania belmonts curse": 10.379,
+    "squad": 6.313,
+    "zero parades directors cut": 6.069,
+    "stuntman hollywood": 5.663,
+    "galactic racers": 5.654,
+    "cyberpunk 2077": 5.317,
+    "dawnwalker": 4.178,
+    "gta 6": 13.644,
+    "trophy list tidy": 2.792,
+    "halo mcc": 2.386,
+    "blue prince": 2.386,
+    "toy story": 2.386,
+    "toy story 3": 4.079,
+    "god of war": 2.386,
+    "galactic racer": 2.099,
+    "the last of us part 2": 2.099,
+    "stardew": 2.099,
+    "animal crossing": 2.099,
+    "witcher 3 remastered": 2.099,
+    "the two towers": 2.099,
+    "the return of the king": 2.099,
+    "nomad conquest": 4.197,
+    "eggsortist": 2.099,
+    "sniper ghost warrior contracts 2": 2.099,
+    "call of dragons": 4.197,
+    "legi\u00f3n colmillo": 2.099,
+    "arma3": 2.099,
+    "rob run": 2.099,
+    "pro x3": 2.099,
+    "humankind 2": 2.099,
+    "hitman absolution": 2.099,
+    "retroneer": 2.099,
+    "gta6": 3.792,
+    "planetside 2": 2.099,
+    "tom clancys rainbow six tactics": 2.099,
+    "penguin colony": 2.099,
+    "shepherd dog adventure hubert": 2.099,
+    "pirates": 2.099,
+    "zombies": 2.099,
+    "call of duty": 5.89,
+    "gloomyrun": 2.099,
+    "epic": 2.099,
+    "scam with your friends": 4.197,
+    "nfs unbound": 2.099,
+    "keyboard splitter": 2.099,
+    "the elder scrolls iv oblivion": 2.099,
+    "ghostwire tokyo": 2.099,
+    "ace combat 8": 5.485,
+    "lies of p": 2.099,
+    "sunrise": 2.099,
+    "fate extra": 2.099,
+    "south park": 2.099,
+    "holy shroom": 2.099,
+    "dreadline express": 2.099,
+    "red dead": 2.099,
+    "batman arkham": 2.099,
+    "rlzombie": 2.099,
+    "bloodborne": 2.099,
+    "pubg": 2.099,
+    "gloamdelve": 2.099,
+    "world of warcraft": 2.099,
+    "secret of the burnt village": 2.099,
+    "outlast": 1.693,
+    "mafia": 1.693,
+    "battlefield 6": 1.693,
+    "dune awakening": 1.693,
+    "conan exiles": 1.693,
+    "ghost of y\u014dtei": 1.693,
+    "kitaria fables": 1.693,
+    "desolus": 1.693,
+    "hollow knight": 1.693,
+    "rpgs": 1.693,
+    "fortnite": 1.693,
+    "wolverine": 1.693,
+    "sony pictures core": 1.693,
+    "controller": 3.386,
+    "8bitdo": 1.693
+  }
+}
