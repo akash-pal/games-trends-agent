@@ -1,0 +1,50 @@
+name: Weekly trends
+# Runs on the self-hosted runner (the Mac with Ollama). Deliberately no pull_request
+# trigger: a public repo must never run untrusted code on a self-hosted runner.
+on:
+  schedule:
+    - cron: "0 4 * * 1"   # Mondays 04:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: weekly
+  cancel-in-progress: false
+jobs:
+  trends:
+    runs-on: [self-hosted, macOS, ollama]
+    timeout-minutes: 90
+    env:
+      OLLAMA_MODEL: llama3.1:8b
+    steps:
+      - uses: actions/checkout@v4
+      - name: Put Homebrew on PATH
+        run: echo "/opt/homebrew/bin" >> "$GITHUB_PATH"
+      - name: Check Ollama
+        run: curl -fsS http://127.0.0.1:11434/api/tags >/dev/null
+      - name: Install deps
+        run: |
+          python3 -m venv .venv
+          .venv/bin/pip install -q -r requirements.txt
+      - name: Run pipeline
+        run: .venv/bin/python run.py
+      - name: Commit site
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Trends for $(date -u +%Y-%m-%d)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows, so dispatch the deploy.
+      - name: Deploy Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml
