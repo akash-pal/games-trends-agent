@@ -1,10 +1,10 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T19:29:21.411367+00:00",
+  "generated_at": "2026-10-17T19:39:14.790808+00:00",
   "model": "llama3.1:8b",
   "baseline_date": "2026-10-14",
   "posts_analyzed": 250,
-  "brief": "The buzz this week is on Grand Theft Auto VI on PlayStation 2, with discussions about the launch trailer and soundtrack, and also on PC 1 and PlayStation 1, with excitement and controversy surrounding the game. Castlevania: Belmont's Curse is also trending on PlayStation 2 and PC 1, with character designs being discussed. Call of Duty is being compared to other games in a hypothetical purchasing scenario on PC 1, General 1, and PlayStation 1.",
+  "brief": "The trending games this week include Grand Theft Auto VI on PlayStation 2 and PC, with discussions on its launch trailer and soundtrack, and GTA 6 on PlayStation 6 and General, with talk of its technical specifications and upcoming game awards appearance. Call of Duty is also popular on PC, General, and PlayStation, with comparisons to other games and server issues in Call of Dragons on PC and General. Other games like Castlevania: Belmont's Curse, Control Resonant, and Nomad Conquest are also generating buzz on various platforms.",
   "games": [
     {
       "key": "grand theft auto vi",
@@ -302,43 +302,6 @@
       "why": "Players are discussing issues with the Emperor WOLVES server 1060 in Call of Dragons."
     },
     {
-      "key": "scam with your friends",
-      "name": "Scam with Your Friends",
-      "trending_score": 5.12,
-      "heat": 4.2,
-      "boost": 2.5,
-      "change_pct": null,
-      "is_new": true,
-      "mentions": 2,
-      "engagement": 4,
-      "platforms": {
-        "pc": {
-          "mentions": 2,
-          "engagement": 4
-        }
-      },
-      "top_posts": [
-        {
-          "title": "Scam with Your Friends records your voice and hides its AI use",
-          "url": "https://reddit.com/r/pcgaming/comments/1x80zqi/scam_with_your_friends_records_your_voice_and/",
-          "subreddit": "pcgaming",
-          "platform": "pc",
-          "score": 1,
-          "num_comments": 1
-        },
-        {
-          "title": "Scam with Your Friends on Steam records your voice and hides its AI use",
-          "url": "https://reddit.com/r/pcgaming/comments/1x80xwp/scam_with_your_friends_on_steam_records_your/",
-          "subreddit": "pcgaming",
-          "platform": "pc",
-          "score": 1,
-          "num_comments": 1
-        }
-      ],
-      "rank": 8,
-      "why": "Concerns about voice recording and AI use in the game Scam with Your Friends."
-    },
-    {
       "key": "toy story 3",
       "name": "Toy Story 3",
       "trending_score": 5.05,
@@ -376,45 +339,8 @@
           "num_comments": 0
         }
       ],
-      "rank": 9,
+      "rank": 8,
       "why": "Saving issues in the Toy Story 3 Complete Edition game."
-    },
-    {
-      "key": "controller",
-      "name": "controller",
-      "trending_score": 4.6,
-      "heat": 3.39,
-      "boost": 2.5,
-      "change_pct": null,
-      "is_new": true,
-      "mentions": 2,
-      "engagement": 2,
-      "platforms": {
-        "xbox": {
-          "mentions": 2,
-          "engagement": 2
-        }
-      },
-      "top_posts": [
-        {
-          "title": "Finally got a new controller! Had to retire my 5 year old one lol",
-          "url": "https://reddit.com/r/xbox/comments/1x8g2ie/finally_got_a_new_controller_had_to_retire_my_5/",
-          "subreddit": "xbox",
-          "platform": "xbox",
-          "score": 1,
-          "num_comments": 0
-        },
-        {
-          "title": "What actually is the star [\u2606] button used for on this 8BitDo controller?",
-          "url": "https://reddit.com/r/xbox/comments/1x8f3b9/what_actually_is_the_star_button_used_for_on_this/",
-          "subreddit": "xbox",
-          "platform": "xbox",
-          "score": 1,
-          "num_comments": 0
-        }
-      ],
-      "rank": 10,
-      "why": "New controller purchase and controller functionality"
     },
     {
       "key": "gta6",
@@ -454,7 +380,7 @@
           "num_comments": 0
         }
       ],
-      "rank": 11,
+      "rank": 9,
       "why": "Excitement and controversy surrounding GTA6"
     },
     {
@@ -503,7 +429,7 @@
           "num_comments": 0
         }
       ],
-      "rank": 12,
+      "rank": 10,
       "why": "People are discussing GTA 6, specifically its technical specifications and upcoming game awards appearance."
     }
   ],
@@ -529,25 +455,28 @@
     "god of war": 2.386,
     "galactic racer": 2.099,
     "the last of us part 2": 2.099,
+    "call of combat 2011": 2.099,
     "stardew": 2.099,
     "animal crossing": 2.099,
-    "witcher 3 remastered": 2.099,
-    "the two towers": 2.099,
-    "the return of the king": 2.099,
+    "witcher 3": 2.099,
     "nomad conquest": 4.197,
     "eggsortist": 2.099,
     "sniper ghost warrior contracts 2": 2.099,
     "call of dragons": 4.197,
-    "legi\u00f3n colmillo": 2.099,
     "arma3": 2.099,
+    "extraction": 2.099,
+    "modern warfare": 2.099,
     "rob run": 2.099,
     "pro x3": 2.099,
-    "humankind 2": 2.099,
+    "superstrike": 2.099,
+    "min max": 2.099,
+    "humankind": 2.099,
     "hitman absolution": 2.099,
     "retroneer": 2.099,
     "gta6": 3.792,
     "planetside 2": 2.099,
-    "tom clancys rainbow six tactics": 2.099,
+    "rainbow six tactics": 2.099,
+    "mario": 2.099,
     "penguin colony": 2.099,
     "shepherd dog adventure hubert": 2.099,
     "pirates": 2.099,
@@ -555,18 +484,20 @@
     "call of duty": 5.89,
     "gloomyrun": 2.099,
     "epic": 2.099,
-    "scam with your friends": 4.197,
     "nfs unbound": 2.099,
-    "keyboard splitter": 2.099,
+    "ea": 2.099,
+    "oker byte strike": 2.099,
+    "bacon": 2.099,
+    "amphibian": 2.099,
     "the elder scrolls iv oblivion": 2.099,
     "ghostwire tokyo": 2.099,
     "ace combat 8": 5.485,
     "lies of p": 2.099,
-    "sunrise": 2.099,
+    "piccolo game": 2.099,
+    "projet sunrise": 2.099,
     "fate extra": 2.099,
     "south park": 2.099,
     "holy shroom": 2.099,
-    "dreadline express": 2.099,
     "red dead": 2.099,
     "batman arkham": 2.099,
     "rlzombie": 2.099,
@@ -576,19 +507,18 @@
     "world of warcraft": 2.099,
     "secret of the burnt village": 2.099,
     "outlast": 1.693,
-    "mafia": 1.693,
     "battlefield 6": 1.693,
     "dune awakening": 1.693,
     "conan exiles": 1.693,
     "ghost of y\u014dtei": 1.693,
-    "kitaria fables": 1.693,
+    "kitaria fables 2": 1.693,
     "desolus": 1.693,
     "hollow knight": 1.693,
-    "rpgs": 1.693,
+    "ps store": 1.693,
+    "ps4 pro": 1.693,
+    "ps5 pro": 1.693,
     "fortnite": 1.693,
     "wolverine": 1.693,
-    "sony pictures core": 1.693,
-    "controller": 3.386,
-    "8bitdo": 1.693
+    "xbox cloud gaming": 1.693
   }
 }
