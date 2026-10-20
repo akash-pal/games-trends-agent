@@ -1,0 +1,648 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T05:16:11.679006+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": "2026-10-17",
+  "posts_analyzed": 250,
+  "brief": "The trending games this week include the remake of Vampire: The Masquerade \u2013 Bloodlines, Shrek 2 Remastered on Xbox, and the potential Xbox exclusivity of Fallout, The Elder Scrolls, and Minecraft. The buzz is on General (1-3) for GTA VI, Fallout, The Elder Scrolls, and Minecraft, and on Xbox (1) for Shrek 2 Remastered. PEAK's release on PS5 is also being discussed.",
+  "games": [
+    {
+      "key": "vampire the masquerade bloodlines",
+      "name": "Vampire: The Masquerade \u2013 Bloodlines",
+      "trending_score": 9.74,
+      "heat": 15.18,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 1495,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 1495
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Remaster of original \"Vampire: The Masquerade \u2013 Bloodlines\" is in development",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x83zmb/remaster_of_original_vampire_the_masquerade/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 763,
+          "num_comments": 163
+        },
+        {
+          "title": "Vampire the Masquerade - Bloodlines remake mentioned by Genitorturers.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x7efe0/vampire_the_masquerade_bloodlines_remake/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 449,
+          "num_comments": 120
+        }
+      ],
+      "rank": 1,
+      "why": "Remake/remaster development and a mention of the game by a related entity are being discussed."
+    },
+    {
+      "key": "shrek 2",
+      "name": "Shrek 2",
+      "trending_score": 8.05,
+      "heat": 10.38,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 875,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 871
+        },
+        "xbox": {
+          "mentions": 1,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Shrek 2 Remastered on Xbox Store Early, Published By Aspyr",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x7kqpy/shrek_2_remastered_on_xbox_store_early_published/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 643,
+          "num_comments": 228
+        },
+        {
+          "title": "Got an xbone for subnautica and now shrek 2 is coming soon this is too good.",
+          "url": "https://reddit.com/r/xbox/comments/1x9g1y3/got_an_xbone_for_subnautica_and_now_shrek_2_is/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 0,
+          "num_comments": 4
+        }
+      ],
+      "rank": 2,
+      "why": "Release of Shrek 2 Remastered on Xbox Store"
+    },
+    {
+      "key": "peak",
+      "name": "PEAK",
+      "trending_score": 7.48,
+      "heat": 13.63,
+      "boost": 2.03,
+      "change_pct": 103,
+      "is_new": false,
+      "mentions": 2,
+      "engagement": 676,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 676
+        }
+      },
+      "top_posts": [
+        {
+          "title": "PEAK Releases Oct 22nd On PS5, Xbox Series, & Switch 2. Coming to PS5 Physically Dec 9th",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x6r9bt/peak_releases_oct_22nd_on_ps5_xbox_series_switch/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 337,
+          "num_comments": 48
+        },
+        {
+          "title": "PEAK (The co-op mountain climbing survival game on Steam) rated for PS5",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x5umd9/peak_the_coop_mountain_climbing_survival_game_on/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 273,
+          "num_comments": 18
+        }
+      ],
+      "rank": 3,
+      "why": "PEAK's release on PS5 and potential physical release"
+    },
+    {
+      "key": "gta vi",
+      "name": "GTA VI",
+      "trending_score": 7.45,
+      "heat": 8.89,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 43,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 43
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GamesBeat: GTA VI PC release slated for Q1 2027",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x4x77l/gamesbeat_gta_vi_pc_release_slated_for_q1_2027/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 8,
+          "num_comments": 31
+        },
+        {
+          "title": "Jason Schreier shares new info on GTA VI & RDR2 development that didn\u2019t make into his Bloomberg article",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xa1su3/jason_schreier_shares_new_info_on_gta_vi_rdr2/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Jason Schreier shares new info on GTA VI & RDR2 development that didn\u2019t make into his Bloomberg articl",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xa1rh6/jason_schreier_shares_new_info_on_gta_vi_rdr2/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 4,
+      "why": "GTA VI's PC release date and development details are being discussed."
+    },
+    {
+      "key": "fallout",
+      "name": "Fallout",
+      "trending_score": 7.14,
+      "heat": 8.17,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 1293,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1293
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Windows Central: Microsoft is considering making Fallout, The Elder Scrolls, and even Minecraft Xbox console exclusive \u2014 surveys detailed",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x60g84/windows_central_microsoft_is_considering_making/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 529,
+          "num_comments": 764
+        }
+      ],
+      "rank": 5,
+      "why": "Microsoft considering making Fallout and other Bethesda games Xbox exclusive"
+    },
+    {
+      "key": "the elder scrolls",
+      "name": "The Elder Scrolls",
+      "trending_score": 7.14,
+      "heat": 8.17,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 1293,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1293
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Windows Central: Microsoft is considering making Fallout, The Elder Scrolls, and even Minecraft Xbox console exclusive \u2014 surveys detailed",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x60g84/windows_central_microsoft_is_considering_making/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 529,
+          "num_comments": 764
+        }
+      ],
+      "rank": 6,
+      "why": "Microsoft considering making Fallout, The Elder Scrolls, and Minecraft Xbox console exclusive"
+    },
+    {
+      "key": "minecraft",
+      "name": "Minecraft",
+      "trending_score": 7.14,
+      "heat": 8.17,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 1293,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1293
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Windows Central: Microsoft is considering making Fallout, The Elder Scrolls, and even Minecraft Xbox console exclusive \u2014 surveys detailed",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x60g84/windows_central_microsoft_is_considering_making/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 529,
+          "num_comments": 764
+        }
+      ],
+      "rank": 7,
+      "why": "Minecraft's potential Xbox exclusivity"
+    },
+    {
+      "key": "shrek",
+      "name": "Shrek",
+      "trending_score": 6.84,
+      "heat": 7.5,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 661,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 661
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Shrek appears in the announcement video for the upcoming ID@XBOX",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x63pw0/shrek_appears_in_the_announcement_video_for_the/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 528,
+          "num_comments": 133
+        }
+      ],
+      "rank": 8,
+      "why": "Shrek's appearance in the ID@XBOX announcement video is being discussed."
+    },
+    {
+      "key": "grand theft auto v",
+      "name": "Grand Theft Auto V",
+      "trending_score": 6.49,
+      "heat": 6.74,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 9,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 8
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 1
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GTA 5 running in a web browser using WebGPU (no install required)",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x5tm8f/gta_5_running_in_a_web_browser_using_webgpu_no/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 6
+        },
+        {
+          "title": "GTA 5 running in a web browser using WebGPU (no install required)",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1x5trj4/gta_5_running_in_a_web_browser_using_webgpu_no/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 2
+        },
+        {
+          "title": "What Waiting for GTA 6 feels like after having achieved everything in GTA 5",
+          "url": "https://reddit.com/r/playstation/comments/1xaa3o0/what_waiting_for_gta_6_feels_like_after_having/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 1,
+          "num_comments": 0
+        }
+      ],
+      "rank": 9,
+      "why": "The game's web browser compatibility and the feeling of completion in GTA 5 are being discussed."
+    },
+    {
+      "key": "carpoli",
+      "name": "Carpoli",
+      "trending_score": 6.27,
+      "heat": 6.3,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 6,
+      "platforms": {
+        "pc": {
+          "mentions": 3,
+          "engagement": 6
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Carpoli: a chaotic car board game for 2\u20134 players. Roll dice, buy cars, sabotage your friends",
+          "url": "https://reddit.com/r/pcgaming/comments/1xa45l7/carpoli_a_chaotic_car_board_game_for_24_players/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Carpoli: a chaotic car board game for 2\u20134 players. Roll dice, buy cars, sabotage your friends",
+          "url": "https://reddit.com/r/pcgaming/comments/1xa44vr/carpoli_a_chaotic_car_board_game_for_24_players/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Carpoli: a chaotic car board game for 2\u20134 players. Roll dice, buy cars, sabotage your friends",
+          "url": "https://reddit.com/r/Steam/comments/1xa46ow/carpoli_a_chaotic_car_board_game_for_24_players/",
+          "subreddit": "Steam",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 10,
+      "why": "The Carpoli game is being discussed on Reddit."
+    },
+    {
+      "key": "sega",
+      "name": "Sega",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 2,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "(US region) Metro Sega bundle free code",
+          "url": "https://reddit.com/r/pcgaming/comments/1xah8cq/us_region_metro_sega_bundle_free_code/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "sega tries to sneak on to steam, to give a positive review of there own game, which was broken due to A.i. and broke steams terms of uploading",
+          "url": "https://reddit.com/r/pcgaming/comments/1xaauyq/sega_tries_to_sneak_on_to_steam_to_give_a/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 11,
+      "why": "Sega's actions on Steam are being discussed."
+    },
+    {
+      "key": "star wars battlefront 3",
+      "name": "Star Wars: Battlefront 3",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 2
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 2
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Disney Is In Talks With Bungie & DICE To Work On Star Wars: Battlefront 3, It Is Claimed",
+          "url": "https://reddit.com/r/pcgaming/comments/1xa52g8/disney_is_in_talks_with_bungie_dice_to_work_on/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Jeff Grubb: Disney in talks with Bungie and DICE as they look for a development partner for Star Wars Battlefront 3",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xa1xp9/jeff_grubb_disney_in_talks_with_bungie_and_dice/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 12,
+      "why": "Disney's potential partnership with Bungie and DICE for the development of Star Wars: Battlefront 3."
+    },
+    {
+      "key": "fifa 20",
+      "name": "FIFA 20",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 2,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "I want buy FIFA 20",
+          "url": "https://reddit.com/r/pcgaming/comments/1xa1oad/i_want_buy_fifa_20/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "I want to buy fifa 20 cd key for ea app because i know website like g2a sometime are fraud scam i would want wich website can give you cd key after buying the game",
+          "url": "https://reddit.com/r/pcgaming/comments/1xa1iy0/i_want_to_buy_fifa_20_cd_key_for_ea_app_because_i/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 13,
+      "why": "People are discussing where to buy a legitimate CD key for FIFA 20."
+    },
+    {
+      "key": "deadlock",
+      "name": "Deadlock",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "pc": {
+          "mentions": 2,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "I want to play deadlock",
+          "url": "https://reddit.com/r/Steam/comments/1xa403f/i_want_to_play_deadlock/",
+          "subreddit": "Steam",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Deadlock invite",
+          "url": "https://reddit.com/r/Steam/comments/1x9xfu2/deadlock_invite/",
+          "subreddit": "Steam",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 14,
+      "why": "People are discussing how to play or get invited to play the game Deadlock."
+    },
+    {
+      "key": "story games",
+      "name": "story games",
+      "trending_score": 5.12,
+      "heat": 4.2,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 4,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 4
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Do u prefer story games or esports title",
+          "url": "https://reddit.com/r/Games/comments/1x9ux41/do_u_prefer_story_games_or_esports_title/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        },
+        {
+          "title": "Which game do ya all play the most esports title or story games?",
+          "url": "https://reddit.com/r/Games/comments/1x9utit/which_game_do_ya_all_play_the_most_esports_title/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 1,
+          "num_comments": 1
+        }
+      ],
+      "rank": 15,
+      "why": "People are discussing whether they prefer story games or esports titles."
+    }
+  ],
+  "heat_index": {
+    "fallout": 8.165,
+    "the elder scrolls": 8.165,
+    "minecraft": 8.165,
+    "vampire the masquerade bloodlines": 15.178,
+    "shrek 2": 10.38,
+    "assassins creed destiny": 7.504,
+    "shrek": 7.495,
+    "grand theft auto vi": 7.34,
+    "peak": 13.633,
+    "ocarina of time": 6.908,
+    "gta 6": 14.598,
+    "godzilla destroy all monsters melee": 6.714,
+    "trailblazer": 6.489,
+    "zelda": 6.421,
+    "e day": 6.056,
+    "monster train": 5.663,
+    "elite": 5.357,
+    "gta vi": 8.886,
+    "the quarry": 3.485,
+    "valor mortis": 3.485,
+    "dead space": 3.485,
+    "grand theft auto v": 6.738,
+    "subnautica": 2.609,
+    "once human": 2.386,
+    "beamng drive": 2.099,
+    "midtown madness 3": 2.099,
+    "cresata": 2.099,
+    "metro": 2.099,
+    "sega": 4.197,
+    "skate": 2.099,
+    "planet zoo 2": 2.099,
+    "sid meiers pirates": 2.099,
+    "dark souls 2": 2.099,
+    "desktop factory": 2.099,
+    "celtic kings rage of war": 2.099,
+    "road redemption": 2.099,
+    "ultrapolis": 2.099,
+    "kings courier": 2.099,
+    "valorant": 2.099,
+    "nordic": 2.099,
+    "star wars battlefront 3": 4.197,
+    "carpoli": 6.296,
+    "crownfront": 2.099,
+    "mirrors edge": 2.099,
+    "fifa 20": 4.197,
+    "call of duty": 2.099,
+    "metal gear rising revengeance": 2.099,
+    "deadlock": 4.197,
+    "project gate keeper": 2.099,
+    "no man sky": 2.099,
+    "crystal lake edition": 2.099,
+    "emberville": 2.099,
+    "red dead redemption": 2.099,
+    "\u0438\u0433\u0440\u044b": 2.099,
+    "block blast": 2.099,
+    "ea sports cricket": 2.099,
+    "hop n karty": 2.099,
+    "valdoria": 2.099,
+    "story games": 4.197,
+    "esports title": 4.197,
+    "c c": 2.099,
+    "red alert": 2.099,
+    "battlefront 3": 2.099,
+    "keplerl2": 2.099,
+    "ps6": 2.099,
+    "red dead redemption 2": 4.197,
+    "fall guys": 2.099,
+    "zero escape": 2.099,
+    "ps2": 1.693,
+    "spider man 2": 1.693,
+    "p t": 1.693,
+    "great game": 1.693,
+    "beam ng": 1.693,
+    "kingdom hearts": 1.693,
+    "ghost of tsushima": 1.693,
+    "atomic heart": 1.693,
+    "mythic": 1.693
+  }
+}
