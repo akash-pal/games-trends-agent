@@ -1,0 +1,820 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T02:31:00.726409+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": "2026-10-20",
+  "posts_analyzed": 250,
+  "brief": "The gaming community is abuzz with discussions on upcoming games like Mass Effect 5 (PC, General) and Grand Theft Auto VI (PlayStation 2, General), as well as controversies surrounding their development and content. Other trending topics include Phantom Blade Zero (PlayStation 3), No Man's Sky (PlayStation 1), and Witchbrook (General, PC).",
+  "games": [
+    {
+      "key": "mass effect 5",
+      "name": "Mass Effect 5",
+      "trending_score": 16.1,
+      "heat": 41.45,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 5,
+      "engagement": 14206,
+      "platforms": {
+        "general": {
+          "mentions": 4,
+          "engagement": 13169
+        },
+        "pc": {
+          "mentions": 1,
+          "engagement": 1037
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, \"so as to not cause offense\"",
+          "url": "https://reddit.com/r/gaming/comments/1xhte5y/mass_effect_5_studio_was_reportedly_told_to_tone/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 9890,
+          "num_comments": 378
+        },
+        {
+          "title": "Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, \"so as to not cause offense\"",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xhts2p/mass_effect_5_studio_was_reportedly_told_to_tone/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 794,
+          "num_comments": 460
+        },
+        {
+          "title": "Shinobi602: \"Development on Mass Effect 5 was going quite well. Story, charactes and other elements were locked in\".",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xdixmv/shinobi602_development_on_mass_effect_5_was_going/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 878,
+          "num_comments": 362
+        }
+      ],
+      "rank": 1,
+      "why": "Concerns over EA's handling of inclusivity in Mass Effect 5 after the Saudi Arabia buyout and updates on the game's development progress."
+    },
+    {
+      "key": "phantom blade zero",
+      "name": "Phantom Blade Zero",
+      "trending_score": 16.07,
+      "heat": 41.3,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 7,
+      "engagement": 1931,
+      "platforms": {
+        "general": {
+          "mentions": 4,
+          "engagement": 1655
+        },
+        "playstation": {
+          "mentions": 3,
+          "engagement": 276
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
+          "url": "https://reddit.com/r/gaming/comments/1xhlbp9/phantom_blade_zero_looks_like_a_hit_before_its/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 555,
+          "num_comments": 288
+        },
+        {
+          "title": "Phantom Blade Zero early review uploaded",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xf37a7/phantom_blade_zero_early_review_uploaded/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 424,
+          "num_comments": 285
+        },
+        {
+          "title": "Phantom Blade Zero - PS5/PS5 Pro - The Digital Foundry Tech Review",
+          "url": "https://reddit.com/r/PS5/comments/1xhx4zf/phantom_blade_zero_ps5ps5_pro_the_digital_foundry/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 103,
+          "num_comments": 52
+        }
+      ],
+      "rank": 2,
+      "why": "Phantom Blade Zero's sales and early reviews are being discussed on Reddit."
+    },
+    {
+      "key": "no mans sky",
+      "name": "No Man's Sky",
+      "trending_score": 13.18,
+      "heat": 27.8,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 4,
+      "engagement": 1953,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 1699
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 254
+        }
+      },
+      "top_posts": [
+        {
+          "title": "No Man's Sky Forsaken Trailer",
+          "url": "https://reddit.com/r/gaming/comments/1xhs296/no_mans_sky_forsaken_trailer/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 670,
+          "num_comments": 256
+        },
+        {
+          "title": "No Man's Sky Forsaken Trailer",
+          "url": "https://reddit.com/r/Games/comments/1xhozqa/no_mans_sky_forsaken_trailer/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 433,
+          "num_comments": 196
+        },
+        {
+          "title": "No Man's Sky: Forsaken Trailer | PS5 & PS4 Games",
+          "url": "https://reddit.com/r/PS5/comments/1xhq75x/no_mans_sky_forsaken_trailer_ps5_ps4_games/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 201,
+          "num_comments": 53
+        }
+      ],
+      "rank": 3,
+      "why": "The No Man's Sky Forsaken trailer is being discussed."
+    },
+    {
+      "key": "elden ring",
+      "name": "Elden Ring",
+      "trending_score": 12.59,
+      "heat": 25.35,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 6806,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 6806
+        }
+      },
+      "top_posts": [
+        {
+          "title": "A24's 'ELDEN RING' has become the biggest movie to ever go on sale at a film or TV market in history, with a budget close to $200M | Alex Garland's tightly-guarded \"faithful\" and ambitious script runs at least 180 pages including visuals, with a potential runtime around 3 hours long",
+          "url": "https://reddit.com/r/gaming/comments/1xgx7a8/a24s_elden_ring_has_become_the_biggest_movie_to/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 3746,
+          "num_comments": 656
+        },
+        {
+          "title": "A24's 'ELDEN RING' has a production budget of nearly $200 million, becoming by far the most expensive movie they've ever made (previously 'Marty Supreme' at $70 million)",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xec1g2/a24s_elden_ring_has_a_production_budget_of_nearly/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1296,
+          "num_comments": 450
+        },
+        {
+          "title": "[DEADLINE] A24's 'Elden Ring' Becomes The Biggest Movie Ever At Sale On A Market; Amazon joins film for a large number of international markets in deal worth tens of millions, could also potentially lead to interesting activations on Twitch",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xgvhe7/deadline_a24s_elden_ring_becomes_the_biggest/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 457,
+          "num_comments": 201
+        }
+      ],
+      "rank": 4,
+      "why": "The budget and production of the movie adaptation of Elden Ring are being discussed."
+    },
+    {
+      "key": "grand theft auto vi",
+      "name": "Grand Theft Auto VI",
+      "trending_score": 12.0,
+      "heat": 23.03,
+      "boost": 2.5,
+      "change_pct": 214,
+      "is_new": false,
+      "mentions": 3,
+      "engagement": 2488,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 1981
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 507
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Jason Schreier: Big news from the Independent Workers Union of Great Britain: Employees at Rockstar Games in the UK will hold a union vote next month, just as they release Grand Theft Auto VI",
+          "url": "https://reddit.com/r/PS5/comments/1xgzby9/jason_schreier_big_news_from_the_independent/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 935,
+          "num_comments": 65
+        },
+        {
+          "title": "\u2018Grand Theft Auto VI: Original Score\u2019 has appeared on Apple Music NZ, listing 50 tracks and a release date of December 11",
+          "url": "https://reddit.com/r/PS5/comments/1xhmu5h/grand_theft_auto_vi_original_score_has_appeared/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 949,
+          "num_comments": 32
+        },
+        {
+          "title": "Grand Theft Auto VI: Original Score has appeared on Apple Music NZ for pre-ordering before the announcement, listing 50 tracks and a release date of December 11",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xhmwhj/grand_theft_auto_vi_original_score_has_appeared/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 477,
+          "num_comments": 30
+        }
+      ],
+      "rank": 5,
+      "why": "Release of Grand Theft Auto VI's original score on Apple Music NZ and a union vote at Rockstar Games in the UK."
+    },
+    {
+      "key": "gta vi",
+      "name": "GTA VI",
+      "trending_score": 11.75,
+      "heat": 22.18,
+      "boost": 2.5,
+      "change_pct": 150,
+      "is_new": false,
+      "mentions": 3,
+      "engagement": 3186,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 3186
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Review Codes for GTA VI are being distributed, embargo one day before release - NateTheHate",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xg0yd9/review_codes_for_gta_vi_are_being_distributed/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 2008,
+          "num_comments": 469
+        },
+        {
+          "title": "A new Justice track from GTA VI Original Score is coming this Thursday",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xhmayc/a_new_justice_track_from_gta_vi_original_score_is/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 465,
+          "num_comments": 90
+        },
+        {
+          "title": "Low-res  GTA VI screenshots leaked from Edge Magazine  issue releasing in 2 days",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xgvqpr/lowres_gta_vi_screenshots_leaked_from_edge/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 129,
+          "num_comments": 25
+        }
+      ],
+      "rank": 6,
+      "why": "Leaked GTA VI screenshots and a new music track are being discussed."
+    },
+    {
+      "key": "mass effect",
+      "name": "Mass Effect",
+      "trending_score": 11.54,
+      "heat": 21.31,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 1737,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 1737
+        }
+      },
+      "top_posts": [
+        {
+          "title": "New info on next mass effect from YouTuber and \u201ccommunity council\u201d member Dantics",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xdhiv5/new_info_on_next_mass_effect_from_youtuber_and/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 561,
+          "num_comments": 254
+        },
+        {
+          "title": "Apparently the 'pride flags' story for Mass Effect: Universe was fake, there weren't any such flags in the game to begin with.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xhuk18/apparently_the_pride_flags_story_for_mass_effect/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 548,
+          "num_comments": 235
+        },
+        {
+          "title": "Who would you want to pick up the Mass Effect IP?",
+          "url": "https://reddit.com/r/gaming/comments/1xgy5mi/who_would_you_want_to_pick_up_the_mass_effect_ip/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 139
+        }
+      ],
+      "rank": 7,
+      "why": "New Mass Effect game information, controversy over game content, and discussion of who should acquire the IP."
+    },
+    {
+      "key": "dead island 2",
+      "name": "Dead Island 2",
+      "trending_score": 11.31,
+      "heat": 20.46,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 1310,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 1196
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 114
+        }
+      },
+      "top_posts": [
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/PS5/comments/1xhrc3x/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 540,
+          "num_comments": 224
+        },
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/playstation/comments/1xhrc8q/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 328,
+          "num_comments": 104
+        },
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/Games/comments/1xhssmi/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 93,
+          "num_comments": 21
+        }
+      ],
+      "rank": 8,
+      "why": "The inclusion of Dead Island 2 in the PlayStation Plus Monthly Games for November is being discussed."
+    },
+    {
+      "key": "tomb raider iv vi remastered",
+      "name": "Tomb Raider IV \u2013 VI Remastered",
+      "trending_score": 11.31,
+      "heat": 20.46,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 1310,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 1196
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 114
+        }
+      },
+      "top_posts": [
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/PS5/comments/1xhrc3x/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 540,
+          "num_comments": 224
+        },
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/playstation/comments/1xhrc8q/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 328,
+          "num_comments": 104
+        },
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/Games/comments/1xhssmi/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 93,
+          "num_comments": 21
+        }
+      ],
+      "rank": 9,
+      "why": "The free games available on PlayStation Plus for November are being discussed."
+    },
+    {
+      "key": "monster train 2",
+      "name": "Monster Train 2",
+      "trending_score": 11.31,
+      "heat": 20.46,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 1310,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 1196
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 114
+        }
+      },
+      "top_posts": [
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/PS5/comments/1xhrc3x/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 540,
+          "num_comments": 224
+        },
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/playstation/comments/1xhrc8q/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 328,
+          "num_comments": 104
+        },
+        {
+          "title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV \u2013 VI Remastered, Monster Train 2",
+          "url": "https://reddit.com/r/Games/comments/1xhssmi/playstation_plus_monthly_games_for_november_dead/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 93,
+          "num_comments": 21
+        }
+      ],
+      "rank": 10,
+      "why": "The inclusion of Monster Train 2 in the PlayStation Plus Monthly Games for November is being discussed."
+    },
+    {
+      "key": "alien isolation 2",
+      "name": "Alien: Isolation 2",
+      "trending_score": 10.83,
+      "heat": 18.77,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 645,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 350
+        },
+        "general": {
+          "mentions": 2,
+          "engagement": 295
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Alien: Isolation 2 will have a physical edition to stay true to the franchise",
+          "url": "https://reddit.com/r/PS5/comments/1xhwr9g/alien_isolation_2_will_have_a_physical_edition_to/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 315,
+          "num_comments": 35
+        },
+        {
+          "title": "Alien: Isolation 2 Confirmed To Have A Physical Edition: \"Staying true to the analogue nature of Alien is one of our core pillars\" (+ more details in dev Q&A)",
+          "url": "https://reddit.com/r/gaming/comments/1xhujsw/alien_isolation_2_confirmed_to_have_a_physical/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 178,
+          "num_comments": 13
+        },
+        {
+          "title": "Alien: Isolation 2 Team Confirms Physical Edition, Photo Mode, and New Gameplay Details",
+          "url": "https://reddit.com/r/Games/comments/1xhx8vb/alien_isolation_2_team_confirms_physical_edition/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 95,
+          "num_comments": 9
+        }
+      ],
+      "rank": 11,
+      "why": "Physical edition and new features of Alien: Isolation 2 are being discussed."
+    },
+    {
+      "key": "witchbrook",
+      "name": "Witchbrook",
+      "trending_score": 10.82,
+      "heat": 18.72,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 1123,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 906
+        },
+        "pc": {
+          "mentions": 2,
+          "engagement": 217
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Witchbrook Coming to PC, Nintendo Switch, Nintendo Switch 2, PS5, and Xbox on January 28th!",
+          "url": "https://reddit.com/r/Games/comments/1xhp615/witchbrook_coming_to_pc_nintendo_switch_nintendo/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 704,
+          "num_comments": 202
+        },
+        {
+          "title": "Witchbrook launches on January 28th 2027",
+          "url": "https://reddit.com/r/pcgaming/comments/1xhpoeq/witchbrook_launches_on_january_28th_2027/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 158,
+          "num_comments": 18
+        },
+        {
+          "title": "Witchbrook Delayed To January 28 2027",
+          "url": "https://reddit.com/r/pcgaming/comments/1xhqzef/witchbrook_delayed_to_january_28_2027/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 34,
+          "num_comments": 7
+        }
+      ],
+      "rank": 12,
+      "why": "Release date and platform announcements"
+    },
+    {
+      "key": "grand theft auto 6",
+      "name": "Grand Theft Auto 6",
+      "trending_score": 10.31,
+      "heat": 17.02,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 11233,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 10928
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 305
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
+          "url": "https://reddit.com/r/PS5/comments/1xgymxy/grand_theft_auto_6_download_size_revealed_to_be/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 9236,
+          "num_comments": 1692
+        },
+        {
+          "title": "Natethehate: Rockstar Games have begun to distribute review code of Grand Theft Auto 6 to media outlets. Review embargo is November 18th.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xg0y1q/natethehate_rockstar_games_have_begun_to/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 243,
+          "num_comments": 62
+        }
+      ],
+      "rank": 13,
+      "why": "Review code distribution and download size are being discussed."
+    },
+    {
+      "key": "world of warcraft",
+      "name": "World of Warcraft",
+      "trending_score": 10.15,
+      "heat": 16.47,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 3604,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2950
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 654
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Blizzard said it wouldn't sell real-money World of Warcraft housing items tied to player races. It lied.",
+          "url": "https://reddit.com/r/gaming/comments/1xhr1jy/blizzard_said_it_wouldnt_sell_realmoney_world_of/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 2562,
+          "num_comments": 388
+        },
+        {
+          "title": "World of Warcraft: Forever lead teases console support as gamepad support lets players play \u201con whatever you want\u201d",
+          "url": "https://reddit.com/r/PS5/comments/1xhse42/world_of_warcraft_forever_lead_teases_console/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 483,
+          "num_comments": 171
+        }
+      ],
+      "rank": 14,
+      "why": "Blizzard's decision to sell real-money housing items tied to player races and console support for World of Warcraft"
+    },
+    {
+      "key": "sword of the sea",
+      "name": "Sword of the Sea",
+      "trending_score": 10.14,
+      "heat": 16.45,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 335,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 306
+        },
+        "xbox": {
+          "mentions": 1,
+          "engagement": 29
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Sword of the Sea is on the Xbox Store page",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xf3iqs/sword_of_the_sea_is_on_the_xbox_store_page/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 160,
+          "num_comments": 18
+        },
+        {
+          "title": "Sword of the Sea releases Oct 29th on Xbox Series & Switch 2",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xhrhte/sword_of_the_sea_releases_oct_29th_on_xbox_series/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 121,
+          "num_comments": 7
+        },
+        {
+          "title": "Sword of the Sea - XBOX Series X|S Trailer",
+          "url": "https://reddit.com/r/xbox/comments/1xhst4a/sword_of_the_sea_xbox_series_xs_trailer/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 28,
+          "num_comments": 1
+        }
+      ],
+      "rank": 15,
+      "why": "Release and trailer announcements for Sword of the Sea."
+    }
+  ],
+  "heat_index": {
+    "grand theft auto 6": 17.023,
+    "mass effect 5": 41.452,
+    "elden ring": 25.346,
+    "ghost of y\u014dtei": 9.374,
+    "world of warcraft": 16.475,
+    "red dead 2": 8.832,
+    "gta vi": 22.179,
+    "x men": 15.871,
+    "resident evil": 8.264,
+    "control": 15.892,
+    "arkane lyon": 15.836,
+    "deadline": 7.925,
+    "blade": 7.912,
+    "grand theft auto vi": 23.029,
+    "rockstar games": 7.909,
+    "no mans sky": 27.796,
+    "cyberpunk 2": 7.812,
+    "witchbrook": 18.724,
+    "phantom blade zero": 41.297,
+    "mass effect": 21.31,
+    "gears of war": 14.538,
+    "dead island 2": 20.456,
+    "tomb raider iv vi remastered": 20.456,
+    "monster train 2": 20.456,
+    "kingdom come deliverance": 7.568,
+    "titanfall 2": 7.506,
+    "silent hill 1": 7.441,
+    "portal": 7.382,
+    "space marine 2": 7.319,
+    "half life": 7.258,
+    "transformers reactivate": 7.172,
+    "fire emblem fortunes weave": 14.086,
+    "sonic adventure 3": 7.047,
+    "mario kart world": 13.711,
+    "donkey kong bananza": 13.711,
+    "street fighter 5": 6.914,
+    "threes": 6.872,
+    "alien isolation 2": 18.772,
+    "state of decay 3": 6.775,
+    "state of decay": 6.775,
+    "fire emblem fortunes": 6.707,
+    "assassins creed black flag": 6.628,
+    "pok\u00e9mon": 6.568,
+    "star wars galactic racer": 6.565,
+    "sulfur": 6.541,
+    "dragon age": 6.537,
+    "monster train": 6.438,
+    "exodus": 11.746,
+    "gennady": 6.308,
+    "rayman legends": 6.303,
+    "astro bot": 6.303,
+    "cronos": 6.252,
+    "lazarus": 6.252,
+    "sword of the sea": 16.448,
+    "mobile suit gundam gundam battle operation 3": 6.056,
+    "you are empty": 11.824,
+    "fortnite": 5.963,
+    "predator": 5.963,
+    "alan wake 2": 5.913,
+    "ratchet and clank": 5.82,
+    "star wars battlefront": 5.754,
+    "project motor racing": 5.7,
+    "mobile suit gundam battle operation 3": 5.7,
+    "adorable adventures": 5.691,
+    "we were here": 5.644,
+    "we were here tomorrow": 5.644,
+    "cronos lazarus": 15.609,
+    "conan exiles": 5.543,
+    "titan quest ii": 5.522,
+    "carcosa": 5.466,
+    "threads of time": 10.526,
+    "croak": 9.966,
+    "the s\u00e9ance of blake manor": 5.369,
+    "the wolf among us": 5.29,
+    "alien isolation": 5.159,
+    "call of duty": 5.159,
+    "apex": 5.159,
+    "pubg": 5.159,
+    "the outer worlds 2": 5.078,
+    "platinum": 5.007,
+    "doom": 5.007,
+    "wolverine": 4.951,
+    "crimson desert": 4.912,
+    "series x": 4.892,
+    "drawquarium": 4.85,
+    "aloft": 4.761,
+    "remothered red nuns legacy": 9.057,
+    "winds of viridia": 9.128,
+    "s box": 4.738,
+    "lego island": 4.738,
+    "anomalith": 4.714,
+    "atmosfar": 4.638,
+    "death stranding": 4.611,
+    "smalland 2 lost realms": 13.511,
+    "soulframe": 4.555,
+    "wardogs": 4.466,
+    "club penguin": 4.466,
+    "mini bash": 4.466,
+    "psychonauts": 4.367,
+    "cyberpunk 2077": 4.296,
+    "minecraft dungeons": 4.135
+  }
+}
