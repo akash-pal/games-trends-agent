@@ -1,0 +1,671 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T12:30:36.648775+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": "2026-10-29",
+  "posts_analyzed": 250,
+  "brief": "The trending games this week on Reddit include GTA 6, Queen's Domain, and Zelda: Ocarina Of Time, with discussions on their online features, gameplay, and potential DLCs on various platforms including PlayStation, Xbox, and PC.",
+  "games": [
+    {
+      "key": "gta 6",
+      "name": "GTA 6",
+      "trending_score": 18.15,
+      "heat": 52.7,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 12,
+      "engagement": 1289,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 1050
+        },
+        "playstation": {
+          "mentions": 8,
+          "engagement": 212
+        },
+        "xbox": {
+          "mentions": 2,
+          "engagement": 27
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GTA 6 is seemingly already set up for Online, as it supports \"joinSession\" and \"launchMultiplayerActivity\" on the PlayStation backend",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xreytv/gta_6_is_seemingly_already_set_up_for_online_as/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 439,
+          "num_comments": 135
+        },
+        {
+          "title": "Smyths Toys confirms GTA 6 has double sided poster in case",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xqfgft/smyths_toys_confirms_gta_6_has_double_sided/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 379,
+          "num_comments": 97
+        },
+        {
+          "title": "First look at the physical GTA 6 PS5 box (in German). Two new screenshots",
+          "url": "https://reddit.com/r/PS5/comments/1xq6uub/first_look_at_the_physical_gta_6_ps5_box_in/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 73
+        }
+      ],
+      "rank": 1,
+      "why": "GTA 6's online features and physical box art are being discussed on Reddit."
+    },
+    {
+      "key": "queens domain",
+      "name": "Queen's Domain",
+      "trending_score": 12.02,
+      "heat": 23.13,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 3711,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 3373
+        },
+        "pc": {
+          "mentions": 1,
+          "engagement": 338
+        }
+      },
+      "top_posts": [
+        {
+          "title": "For anyone on the fence, play Queen\u2019s Domain. Best game I\u2019ve played in years.",
+          "url": "https://reddit.com/r/gaming/comments/1xqvudj/for_anyone_on_the_fence_play_queens_domain_best/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 2049,
+          "num_comments": 742
+        },
+        {
+          "title": "Yeah, Queens Domain is awesome.",
+          "url": "https://reddit.com/r/gaming/comments/1xqrbw4/yeah_queens_domain_is_awesome/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 302,
+          "num_comments": 280
+        },
+        {
+          "title": "I got Queen's Domain with relative high expectations but not crazy ones, but the more I play the better it gets, could turn out to be my GOTY this year, it is that good. As someone that has never played King's Field nor Metroid Prime I am now way more interested on giving those games a chance",
+          "url": "https://reddit.com/r/Steam/comments/1xrdcko/i_got_queens_domain_with_relative_high/",
+          "subreddit": "Steam",
+          "platform": "pc",
+          "score": 250,
+          "num_comments": 88
+        }
+      ],
+      "rank": 2,
+      "why": "People are discussing how good the game Queen's Domain is and how it might be their game of the year."
+    },
+    {
+      "key": "zelda ocarina of time",
+      "name": "Zelda: Ocarina Of Time",
+      "trending_score": 10.22,
+      "heat": 16.72,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 3348,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 3348
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
+          "url": "https://reddit.com/r/gaming/comments/1xqgap6/data_found_in_zelda_ocarina_of_time_may_hint_at/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 1980,
+          "num_comments": 283
+        },
+        {
+          "title": "Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xqg2yr/data_found_in_zelda_ocarina_of_time_may_hint_at/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 825,
+          "num_comments": 260
+        }
+      ],
+      "rank": 3,
+      "why": "Data found in the game may hint at a potential Master Quest DLC."
+    },
+    {
+      "key": "assassins creed",
+      "name": "Assassin's Creed",
+      "trending_score": 9.67,
+      "heat": 14.97,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 1353,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 844
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 509
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Rumor: Ubisoft Reportedly Developing Two Assassin\u2019s Creed Game Set in Rome and Jerusalem",
+          "url": "https://reddit.com/r/PS5/comments/1xqx2q6/rumor_ubisoft_reportedly_developing_two_assassins/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 645,
+          "num_comments": 199
+        },
+        {
+          "title": "xj0nathan: Two new Assassin's Creed games in the works, Codename Mars and Pocket",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xq8iwp/xj0nathan_two_new_assassins_creed_games_in_the/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 346,
+          "num_comments": 163
+        }
+      ],
+      "rank": 4,
+      "why": "New Assassin's Creed game rumors and titles are being discussed."
+    },
+    {
+      "key": "the legend of zelda ocarina of time",
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "trending_score": 9.13,
+      "heat": 13.34,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 892,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 892
+        }
+      },
+      "top_posts": [
+        {
+          "title": "The Legend of Zelda: Ocarina of Time remake is the UK\u2019s second biggest Zelda launch of all time (physical sales only). Its first week is 35% bigger than what Breath of the Wild managed on Switch and Wii U in 2017, roughly half of what Tears of the Kingdom did in its first week",
+          "url": "https://reddit.com/r/Games/comments/1xr4bvu/the_legend_of_zelda_ocarina_of_time_remake_is_the/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 528,
+          "num_comments": 258
+        },
+        {
+          "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+          "url": "https://reddit.com/r/Games/comments/1xrkpis/the_legend_of_zelda_ocarina_of_time_speedrunners/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 94,
+          "num_comments": 12
+        }
+      ],
+      "rank": 5,
+      "why": "The game's remake's sales performance and speedrunning exploits are being discussed on Reddit."
+    },
+    {
+      "key": "zelda",
+      "name": "Zelda",
+      "trending_score": 8.45,
+      "heat": 11.43,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 965,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 953
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 12
+        }
+      },
+      "top_posts": [
+        {
+          "title": "How the fuck am I supposed to play the new Zelda?",
+          "url": "https://reddit.com/r/gaming/comments/1xqt33y/how_the_fuck_am_i_supposed_to_play_the_new_zelda/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 895,
+          "num_comments": 58
+        },
+        {
+          "title": "Buying a $75 Switch in 2026 just for two Zelda games. Am I stupid?",
+          "url": "https://reddit.com/r/playstation/comments/1xr4se5/buying_a_75_switch_in_2026_just_for_two_zelda/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 12
+        }
+      ],
+      "rank": 6,
+      "why": "Players are discussing the new Zelda game and its requirements, as well as the value of buying a Switch for it."
+    },
+    {
+      "key": "gta vi",
+      "name": "GTA VI",
+      "trending_score": 7.84,
+      "heat": 31.14,
+      "boost": 1.4,
+      "change_pct": 40,
+      "is_new": false,
+      "mentions": 5,
+      "engagement": 2881,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 2846
+        },
+        "xbox": {
+          "mentions": 2,
+          "engagement": 35
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Physical copy for GTA VI arrives early, back of the box shows \u201cOnline Functionality Supported\u201d + new screenshots",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xq66fl/physical_copy_for_gta_vi_arrives_early_back_of/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1057,
+          "num_comments": 255
+        },
+        {
+          "title": "GTA VI end credits to be 80+ minutes",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xqv74y/gta_vi_end_credits_to_be_80_minutes/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 877,
+          "num_comments": 181
+        },
+        {
+          "title": "German electronics store, MediaMarkt, shares unboxed GTA VI contents. Seemingly comes with a double sided poster.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xppw31/german_electronics_store_mediamarkt_shares/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 383,
+          "num_comments": 93
+        }
+      ],
+      "rank": 7,
+      "why": "People are discussing the contents and features of the physical copy of GTA VI."
+    },
+    {
+      "key": "skyrim",
+      "name": "Skyrim",
+      "trending_score": 7.53,
+      "heat": 9.07,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 153,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 146
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 7
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+          "url": "https://reddit.com/r/PS5/comments/1xr7m5e/skyrim_lead_designer_bruce_nesmith_loved_that/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 102,
+          "num_comments": 44
+        },
+        {
+          "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+          "url": "https://reddit.com/r/Games/comments/1xrnr1t/skyrim_lead_designer_bruce_nesmith_loved_that/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 7,
+          "num_comments": 0
+        }
+      ],
+      "rank": 8,
+      "why": "Bethesda's approach to game design is being defended by Skyrim's lead designer in response to criticism from Baldur's Gate 3."
+    },
+    {
+      "key": "baldurs gate 3",
+      "name": "Baldur's Gate 3",
+      "trending_score": 7.53,
+      "heat": 9.07,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 153,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 146
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 7
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+          "url": "https://reddit.com/r/PS5/comments/1xr7m5e/skyrim_lead_designer_bruce_nesmith_loved_that/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 102,
+          "num_comments": 44
+        },
+        {
+          "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+          "url": "https://reddit.com/r/Games/comments/1xrnr1t/skyrim_lead_designer_bruce_nesmith_loved_that/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 7,
+          "num_comments": 0
+        }
+      ],
+      "rank": 9,
+      "why": "Bethesda's approach to game design is being compared to Baldur's Gate 3's story path closure."
+    },
+    {
+      "key": "that new game",
+      "name": "that new game",
+      "trending_score": 7.39,
+      "heat": 8.73,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 2281,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2281
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Managed to grab the foil cover variant of that new game that everyones been raving about",
+          "url": "https://reddit.com/r/gaming/comments/1xqgbqh/managed_to_grab_the_foil_cover_variant_of_that/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 2124,
+          "num_comments": 157
+        }
+      ],
+      "rank": 10,
+      "why": "Collectibility of the game's variant"
+    },
+    {
+      "key": "the elder scrolls vi",
+      "name": "The Elder Scrolls VI",
+      "trending_score": 7.39,
+      "heat": 8.73,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 2266,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2266
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Confirmed: The Elder Scrolls VI is named Sentinel",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xmv9ls/confirmed_the_elder_scrolls_vi_is_named_sentinel/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1598,
+          "num_comments": 668
+        }
+      ],
+      "rank": 11,
+      "why": "The game's official name has been confirmed as Sentinel."
+    },
+    {
+      "key": "gta",
+      "name": "GTA",
+      "trending_score": 7.14,
+      "heat": 8.15,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 47,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 35
+        },
+        "xbox": {
+          "mentions": 1,
+          "engagement": 12
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Get the base digital ps5 for gta?",
+          "url": "https://reddit.com/r/PS5/comments/1xqk860/get_the_base_digital_ps5_for_gta/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 35
+        },
+        {
+          "title": "Bare Bones Xbox for GTA?",
+          "url": "https://reddit.com/r/xbox/comments/1xrgm86/bare_bones_xbox_for_gta/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 0,
+          "num_comments": 12
+        }
+      ],
+      "rank": 12,
+      "why": "GTA game requirements for console"
+    },
+    {
+      "key": "ocarina of time",
+      "name": "Ocarina of time",
+      "trending_score": 6.94,
+      "heat": 7.72,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 33,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 33
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Ocarina of time remake thoughts?",
+          "url": "https://reddit.com/r/gaming/comments/1xpzmvr/ocarina_of_time_remake_thoughts/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 18
+        },
+        {
+          "title": "Anyone know what Ganon looks like in ocarina of time remake?",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xn5psx/anyone_know_what_ganon_looks_like_in_ocarina_of/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 15
+        }
+      ],
+      "rank": 13,
+      "why": "Remake of Ocarina of Time"
+    },
+    {
+      "key": "breath of the wild",
+      "name": "Breath of the Wild",
+      "trending_score": 6.92,
+      "heat": 7.67,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 786,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 786
+        }
+      },
+      "top_posts": [
+        {
+          "title": "The Legend of Zelda: Ocarina of Time remake is the UK\u2019s second biggest Zelda launch of all time (physical sales only). Its first week is 35% bigger than what Breath of the Wild managed on Switch and Wii U in 2017, roughly half of what Tears of the Kingdom did in its first week",
+          "url": "https://reddit.com/r/Games/comments/1xr4bvu/the_legend_of_zelda_ocarina_of_time_remake_is_the/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 528,
+          "num_comments": 258
+        }
+      ],
+      "rank": 14,
+      "why": "Comparison of Ocarina of Time remake sales to Breath of the Wild on Switch."
+    },
+    {
+      "key": "mortal kombat 11",
+      "name": "Mortal Kombat 11",
+      "trending_score": 6.88,
+      "heat": 7.57,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 709,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 709
+        }
+      },
+      "top_posts": [
+        {
+          "title": "First look at my handmade Mortal Kombat 11 Sub-Zero cosplay. Still a WIP, but wearable",
+          "url": "https://reddit.com/r/gaming/comments/1xqkkq0/first_look_at_my_handmade_mortal_kombat_11/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 677,
+          "num_comments": 32
+        }
+      ],
+      "rank": 15,
+      "why": "Mortal Kombat 11 cosplay"
+    }
+  ],
+  "heat_index": {
+    "world of warcraft": 9.732,
+    "queens domain": 23.129,
+    "that new game": 8.733,
+    "the elder scrolls vi": 8.726,
+    "zelda ocarina of time": 16.715,
+    "gta vi": 31.142,
+    "grand theft auto vi": 7.986,
+    "blade": 7.985,
+    "zelda": 11.426,
+    "assassins creed": 14.974,
+    "the legend of zelda ocarina of time": 13.341,
+    "breath of the wild": 7.668,
+    "mortal kombat 11": 7.565,
+    "majoras mask": 7.415,
+    "assassins creed hexe": 7.399,
+    "gta 6": 52.698,
+    "gtavi": 7.303,
+    "sonic racing crossworlds": 7.279,
+    "until dawn": 7.223,
+    "tes6": 7.223,
+    "starfield": 7.223,
+    "fallout 76": 7.223,
+    "mass effect": 13.846,
+    "godzilla destroy all monsters melee remastered": 7.035,
+    "gow sons of sparta": 7.028,
+    "series x": 6.938,
+    "xbox one x": 6.938,
+    "hitman": 6.844,
+    "kena bridge of spirits": 6.749,
+    "scars of kosmora": 6.749,
+    "phantom blade zero": 6.638,
+    "ip holders": 6.565,
+    "yakuza like a dragon": 6.037,
+    "skyrim": 9.07,
+    "baldurs gate 3": 9.07,
+    "my arms are longer now": 5.913,
+    "hades": 5.898,
+    "the legend of california alpha 5": 5.828,
+    "age of empires": 5.71,
+    "elden ring": 5.663,
+    "kingdom of night": 5.615,
+    "gears of war": 9.972,
+    "onimusha": 5.585,
+    "pinball": 5.564,
+    "dragon quest": 5.543,
+    "simpson": 5.454,
+    "prototype": 5.454,
+    "void": 5.419,
+    "breaker": 5.419,
+    "wb all star mayhem": 5.277,
+    "7ds grand cross": 5.277,
+    "007 first light": 5.094,
+    "luminids": 4.932,
+    "kotor": 4.689,
+    "jedi academy": 4.689,
+    "horizon forbidden west": 4.638,
+    "gta": 8.148,
+    "civilization": 4.526,
+    "trevor games": 4.466,
+    "helldivers 2": 4.135,
+    "hunting simulator 3": 4.091,
+    "marble blast ultra": 3.996,
+    "ocarina of time": 7.717,
+    "phantom blade 0": 3.833,
+    "nier automata": 3.773,
+    "hot wheels": 3.708,
+    "trackmania": 3.708,
+    "red dead": 3.639,
+    "billion citizens": 3.639,
+    "uncharted": 3.565,
+    "xanadu": 3.485,
+    "las sombr\u00edas aventuras de billy y mandy": 3.303,
+    "gta6": 3.303,
+    "wolverine": 3.197,
+    "grand theft auto v": 3.197,
+    "new world aeternum": 3.079
+  }
+}
