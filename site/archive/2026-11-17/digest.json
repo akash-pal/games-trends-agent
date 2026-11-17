@@ -1,0 +1,732 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T11:47:57.124585+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": "2026-11-09",
+  "posts_analyzed": 250,
+  "brief": "The buzz this week is on Grand Theft Auto VI, with discussions on leaked music, review embargo lift hints, and controversy over game content and completion time on multiple platforms including PlayStation 2, Xbox 1, and General 3. Other trending games include Halo, Marvel 1943: Rise of Hydra, and Doom, with discussions on new features, cancellation, and updates on various platforms.",
+  "games": [
+    {
+      "key": "grand theft auto vi",
+      "name": "Grand Theft Auto VI",
+      "trending_score": 14.94,
+      "heat": 35.72,
+      "boost": 2.5,
+      "change_pct": 347,
+      "is_new": false,
+      "mentions": 6,
+      "engagement": 3606,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 3476
+        },
+        "playstation": {
+          "mentions": 2,
+          "engagement": 118
+        },
+        "xbox": {
+          "mentions": 1,
+          "engagement": 12
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Grand Theft Auto VI: The Album's entire tracklist leaked by a store employee",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xvwldd/grand_theft_auto_vi_the_albums_entire_tracklist/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1357,
+          "num_comments": 816
+        },
+        {
+          "title": "A song titled \"Welcome To Vice City\", potentially the main theme of Grand Theft Auto VI, has been listed on the Mechanical Licensing Collective (MLC) music database. Bad Bunny, Diplo, Max Jaeger, Mag & La Paciencia, among others, are listed in the songwriting credits.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xt1qum/a_song_titled_welcome_to_vice_city_potentially/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 620,
+          "num_comments": 131
+        },
+        {
+          "title": "Live Q&A With Jason Schreier On Wednesday (Nov. 18) At 11 AM EST Seemingly Hints When The Review Embargo For \u2018Grand Theft Auto VI\u2019 Lifts",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xy9gdd/live_qa_with_jason_schreier_on_wednesday_nov_18/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 474,
+          "num_comments": 78
+        }
+      ],
+      "rank": 1,
+      "why": "Leaked music and a possible review embargo lift hint are being discussed on Reddit."
+    },
+    {
+      "key": "halo",
+      "name": "Halo",
+      "trending_score": 12.37,
+      "heat": 24.49,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 4,
+      "engagement": 790,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 269
+        },
+        "general": {
+          "mentions": 3,
+          "engagement": 521
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Halo: Campaign Evolved -$29.99 (40% off)",
+          "url": "https://reddit.com/r/PS5/comments/1xy55cd/halo_campaign_evolved_2999_40_off/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 188,
+          "num_comments": 81
+        },
+        {
+          "title": "Halo Campaign Evolved is getting Firefight",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xulca6/halo_campaign_evolved_is_getting_firefight/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 222,
+          "num_comments": 28
+        },
+        {
+          "title": "AMD to launch a NUC-SFF APU similar to Xbox's Helix, now rebranded Siren Halo",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xuhdpw/amd_to_launch_a_nucsff_apu_similar_to_xboxs_helix/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 185,
+          "num_comments": 34
+        }
+      ],
+      "rank": 2,
+      "why": "People are discussing Halo Campaign Evolved's new features and a potential new APU related to the game."
+    },
+    {
+      "key": "marvel 1943 rise of hydra",
+      "name": "Marvel 1943: Rise of Hydra",
+      "trending_score": 12.26,
+      "heat": 24.06,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 3,
+      "engagement": 3396,
+      "platforms": {
+        "general": {
+          "mentions": 3,
+          "engagement": 3396
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Marvel 1943: Rise Of Hydra has supposedly been canceled with an announcement coming soon",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xtruhv/marvel_1943_rise_of_hydra_has_supposedly_been/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 850,
+          "num_comments": 430
+        },
+        {
+          "title": "Imran Khan has heard Marvel 1943: Rise of Hydra is not fun. Amy Henning is barely involved at one point, dev team is unhappy, and they are making it playable with as few buttons as possible",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xu16qx/imran_khan_has_heard_marvel_1943_rise_of_hydra_is/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 891,
+          "num_comments": 339
+        },
+        {
+          "title": "Jason Schreier: Skydance Games told the development team behind Marvel 1943: Rise of Hydra on Slack this afternoon that the game is not canceled, despite a widely circulated rumor on Twitter today claiming that it was.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xtuuxl/jason_schreier_skydance_games_told_the/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 800,
+          "num_comments": 86
+        }
+      ],
+      "rank": 3,
+      "why": "Cancellation and development issues"
+    },
+    {
+      "key": "gta 6",
+      "name": "GTA 6",
+      "trending_score": 11.1,
+      "heat": 69.93,
+      "boost": 1.33,
+      "change_pct": 33,
+      "is_new": false,
+      "mentions": 15,
+      "engagement": 6216,
+      "platforms": {
+        "playstation": {
+          "mentions": 10,
+          "engagement": 4049
+        },
+        "general": {
+          "mentions": 2,
+          "engagement": 2097
+        },
+        "xbox": {
+          "mentions": 3,
+          "engagement": 70
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GTA 6 - Update 01.002.001 available - 33% of Users : Now Available. 66% of Users : in 12h All Users : in 24h Update Size : 602 MB",
+          "url": "https://reddit.com/r/PS5/comments/1xxlyc2/gta_6_update_01002001_available_33_of_users_now/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 3431,
+          "num_comments": 451
+        },
+        {
+          "title": "Tom Henderson: GTA 6 Platinum is probably 200 hours+ easy on average. I hope you like animals!",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xwua1s/tom_henderson_gta_6_platinum_is_probably_200/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1210,
+          "num_comments": 278
+        },
+        {
+          "title": "GTA 6 could get FSR 4.1 on Xbox Series consoles",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xt0prz/gta_6_could_get_fsr_41_on_xbox_series_consoles/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 428,
+          "num_comments": 181
+        }
+      ],
+      "rank": 4,
+      "why": "Update and gameplay time estimates are being discussed on GTA 6."
+    },
+    {
+      "key": "gta vi",
+      "name": "GTA VI",
+      "trending_score": 10.49,
+      "heat": 47.44,
+      "boost": 1.52,
+      "change_pct": 52,
+      "is_new": false,
+      "mentions": 7,
+      "engagement": 6392,
+      "platforms": {
+        "general": {
+          "mentions": 4,
+          "engagement": 5890
+        },
+        "playstation": {
+          "mentions": 2,
+          "engagement": 476
+        },
+        "xbox": {
+          "mentions": 1,
+          "engagement": 26
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Tom Henderson: GTA VI Will Take 50 Hours to Finish",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xwxklh/tom_henderson_gta_vi_will_take_50_hours_to_finish/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1738,
+          "num_comments": 599
+        },
+        {
+          "title": "Insider Gaming: South Korea came close to an outright refusal to rate GTA VI due to \u201cfar too much genital exposure\u201d",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xugesq/insider_gaming_south_korea_came_close_to_an/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1173,
+          "num_comments": 272
+        },
+        {
+          "title": "GTA VI Collectors Box displayed shows the unreleased map poster with new location names",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xuatt7/gta_vi_collectors_box_displayed_shows_the/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 966,
+          "num_comments": 312
+        }
+      ],
+      "rank": 5,
+      "why": "Controversy over game content and completion time"
+    },
+    {
+      "key": "gta6",
+      "name": "GTA6",
+      "trending_score": 10.2,
+      "heat": 16.65,
+      "boost": 2.5,
+      "change_pct": 404,
+      "is_new": false,
+      "mentions": 3,
+      "engagement": 1042,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 1032
+        },
+        "playstation": {
+          "mentions": 1,
+          "engagement": 10
+        }
+      },
+      "top_posts": [
+        {
+          "title": "A build existed of GTA6 running at 60 FPS.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xuse10/a_build_existed_of_gta6_running_at_60_fps/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 723,
+          "num_comments": 229
+        },
+        {
+          "title": "Shinobi predicting a 98% for GTA6.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xx3qv4/shinobi_predicting_a_98_for_gta6/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 80
+        },
+        {
+          "title": "Confirmed: GTA6 will have hurricanes!!!!",
+          "url": "https://reddit.com/r/playstation/comments/1xy8gzp/confirmed_gta6_will_have_hurricanes/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 10
+        }
+      ],
+      "rank": 6,
+      "why": "A build of GTA6, predictions for its Metacritic score, and its weather features are being discussed."
+    },
+    {
+      "key": "vice city",
+      "name": "Vice City",
+      "trending_score": 8.6,
+      "heat": 11.84,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 775,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 751
+        },
+        "xbox": {
+          "mentions": 1,
+          "engagement": 24
+        }
+      },
+      "top_posts": [
+        {
+          "title": "A song titled \"Welcome To Vice City\", potentially the main theme of Grand Theft Auto VI, has been listed on the Mechanical Licensing Collective (MLC) music database. Bad Bunny, Diplo, Max Jaeger, Mag & La Paciencia, among others, are listed in the songwriting credits.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xt1qum/a_song_titled_welcome_to_vice_city_potentially/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 620,
+          "num_comments": 131
+        },
+        {
+          "title": "POV: me to my Xbox one S cause I am broke But Vice City is waiting",
+          "url": "https://reddit.com/r/xbox/comments/1xy4dbj/pov_me_to_my_xbox_one_s_cause_i_am_broke_but_vice/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 19,
+          "num_comments": 5
+        }
+      ],
+      "rank": 7,
+      "why": "Potential Grand Theft Auto VI theme song and a player's nostalgia for Vice City"
+    },
+    {
+      "key": "doom",
+      "name": "Doom",
+      "trending_score": 8.52,
+      "heat": 11.6,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 291,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 227
+        },
+        "pc": {
+          "mentions": 1,
+          "engagement": 64
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Doom The Dark Ages was originally intended to be Xbox Exclusive until late in the process",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xur6sw/doom_the_dark_ages_was_originally_intended_to_be/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 116,
+          "num_comments": 111
+        },
+        {
+          "title": "Doom The Dark Ages: Slaughter Mode Update Is Out",
+          "url": "https://reddit.com/r/pcgaming/comments/1xy4itp/doom_the_dark_ages_slaughter_mode_update_is_out/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 62,
+          "num_comments": 2
+        }
+      ],
+      "rank": 8,
+      "why": "The release and updates of Doom: The Dark Ages are being discussed."
+    },
+    {
+      "key": "the legend of zelda majoras mask",
+      "name": "The Legend of Zelda: Majora's Mask",
+      "trending_score": 8.2,
+      "heat": 10.75,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 17165,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 17165
+        }
+      },
+      "top_posts": [
+        {
+          "title": "The Legend of Zelda: Majora's Mask - Official Promotional Art (2000)",
+          "url": "https://reddit.com/r/gaming/comments/1xxatqd/the_legend_of_zelda_majoras_mask_official/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 16723,
+          "num_comments": 442
+        }
+      ],
+      "rank": 9,
+      "why": "Official promotional art from 2000 is being shared."
+    },
+    {
+      "key": "fallout",
+      "name": "Fallout",
+      "trending_score": 8.15,
+      "heat": 10.64,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 15371,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 15371
+        }
+      },
+      "top_posts": [
+        {
+          "title": "My Starfield cosplay, in a group photo with every other Starfield cosplayer at the con. Maybe I should have done Fallout.",
+          "url": "https://reddit.com/r/gaming/comments/1xx1vc0/my_starfield_cosplay_in_a_group_photo_with_every/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 14499,
+          "num_comments": 872
+        }
+      ],
+      "rank": 10,
+      "why": "Fallout cosplay and Starfield game"
+    },
+    {
+      "key": "ghost of yotei",
+      "name": "Ghost of Yotei",
+      "trending_score": 7.89,
+      "heat": 9.95,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 292,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 292
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Ghost of Yotei and Wolverine soundtracks nominated for Grammy",
+          "url": "https://reddit.com/r/PS5/comments/1xy1uho/ghost_of_yotei_and_wolverine_soundtracks/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 240,
+          "num_comments": 43
+        },
+        {
+          "title": "Marvel\u2019s Wolverine, 007: First Light e Ghost of Yotei s\u00e3o indicados ao Grammy 2027",
+          "url": "https://reddit.com/r/playstation/comments/1xyf73e/marvels_wolverine_007_first_light_e_ghost_of/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 9,
+          "num_comments": 0
+        }
+      ],
+      "rank": 11,
+      "why": "Grammy nominations"
+    },
+    {
+      "key": "mass effect legendary edition",
+      "name": "Mass Effect: Legendary Edition",
+      "trending_score": 7.86,
+      "heat": 9.88,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 200,
+      "platforms": {
+        "playstation": {
+          "mentions": 2,
+          "engagement": 200
+        }
+      },
+      "top_posts": [
+        {
+          "title": "(Deal) Mass Effect Legendary Edition is 8.99, and Andromeda is  5.99 (USD)",
+          "url": "https://reddit.com/r/PS5/comments/1xy7018/deal_mass_effect_legendary_edition_is_899_and/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 151,
+          "num_comments": 36
+        },
+        {
+          "title": "(Deal) Mass Effect Legendary Edition is 8.99, and Andromeda is 5.99 (USD)",
+          "url": "https://reddit.com/r/playstation/comments/1xy7i74/deal_mass_effect_legendary_edition_is_899_and/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 12,
+          "num_comments": 1
+        }
+      ],
+      "rank": 12,
+      "why": "The price of Mass Effect Legendary Edition and Andromeda is being discussed."
+    },
+    {
+      "key": "star wars galactic racer",
+      "name": "Star Wars Galactic Racer",
+      "trending_score": 7.81,
+      "heat": 9.76,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 588,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 585
+        },
+        "pc": {
+          "mentions": 1,
+          "engagement": 3
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Star Wars Galactic Racer split-screen update is coming in 2027 | TheSixthAxis",
+          "url": "https://reddit.com/r/PS5/comments/1xxxuek/star_wars_galactic_racer_splitscreen_update_is/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 554,
+          "num_comments": 31
+        },
+        {
+          "title": "Star Wars: Galactic Racer will get Local Split-Screen and Free Play Mode in 2027",
+          "url": "https://reddit.com/r/pcgaming/comments/1xxxjrg/star_wars_galactic_racer_will_get_local/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 1,
+          "num_comments": 2
+        }
+      ],
+      "rank": 13,
+      "why": "Split-screen update and free play mode for Star Wars Galactic Racer are being discussed."
+    },
+    {
+      "key": "gta",
+      "name": "GTA",
+      "trending_score": 7.8,
+      "heat": 15.92,
+      "boost": 1.95,
+      "change_pct": 95,
+      "is_new": false,
+      "mentions": 3,
+      "engagement": 1012,
+      "platforms": {
+        "xbox": {
+          "mentions": 1,
+          "engagement": 973
+        },
+        "playstation": {
+          "mentions": 2,
+          "engagement": 39
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Rockstar Games: To match the fidelity of all aspects of what is the deepest, most immersive take on the GTA series yet, we had to completely reimagine our in-game weather systems.",
+          "url": "https://reddit.com/r/xbox/comments/1xy1qyc/rockstar_games_to_match_the_fidelity_of_all/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 903,
+          "num_comments": 70
+        },
+        {
+          "title": "GTA Protagonists Argue Over Who Carried the Franchise",
+          "url": "https://reddit.com/r/PS5/comments/1xybvl9/gta_protagonists_argue_over_who_carried_the/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 20
+        },
+        {
+          "title": "With GTA taking up 212gb what else is left of your hard drive?",
+          "url": "https://reddit.com/r/playstation/comments/1xydoqw/with_gta_taking_up_212gb_what_else_is_left_of/",
+          "subreddit": "playstation",
+          "platform": "playstation",
+          "score": 0,
+          "num_comments": 19
+        }
+      ],
+      "rank": 14,
+      "why": "GTA game size and weather systems are being discussed on Reddit."
+    },
+    {
+      "key": "grand theft auto",
+      "name": "Grand Theft Auto",
+      "trending_score": 7.65,
+      "heat": 9.37,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 4305,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 4305
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Rockstar Games: To match the fidelity of all aspects of what is the deepest, most immersive take on the Grand Theft Auto series yet, we had to completely reimagine our in-game weather systems to feel more localized, persistent, and above all dynamic + New Screenshots",
+          "url": "https://reddit.com/r/PS5/comments/1xy12e8/rockstar_games_to_match_the_fidelity_of_all/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 3833,
+          "num_comments": 472
+        }
+      ],
+      "rank": 15,
+      "why": "Discussion about the game's weather systems."
+    }
+  ],
+  "heat_index": {
+    "the legend of zelda majoras mask": 10.751,
+    "starfield": 10.64,
+    "fallout": 10.64,
+    "grand theft auto": 9.368,
+    "gta 6": 69.932,
+    "gta vi": 47.438,
+    "grand theft auto vi": 35.715,
+    "wii": 8.586,
+    "wow": 8.351,
+    "marvel 1943 rise of hydra": 24.059,
+    "majoras mask": 8.132,
+    "gta": 15.922,
+    "rainbow six vegas": 7.871,
+    "gta6": 16.652,
+    "gta vi online": 7.788,
+    "the legend of zelda a link between worlds": 7.759,
+    "wolfenstein 3": 7.708,
+    "marvel 1943": 7.69,
+    "vice city": 11.842,
+    "control": 7.562,
+    "persona 6": 7.384,
+    "star wars galactic racer": 9.76,
+    "star wars battlefront 1": 7.37,
+    "morrowind": 7.37,
+    "timesplitters": 7.37,
+    "project helix": 7.346,
+    "control resonant": 7.201,
+    "rayman legends": 7.196,
+    "fable": 7.151,
+    "god of war": 6.892,
+    "sons of sparta": 6.892,
+    "star wars jedi 3": 6.765,
+    "mega man legends": 6.746,
+    "ghost of yotei": 9.952,
+    "wolverine": 6.649,
+    "halo": 24.488,
+    "gtavi": 10.776,
+    "helldivers 2": 6.489,
+    "fatal ichor": 6.489,
+    "doom": 11.604,
+    "xboxs helix": 6.394,
+    "siren": 6.394,
+    "tomb raider": 6.389,
+    "monster hunter wilds ascendance": 6.263,
+    "mass effect legendary edition": 9.875,
+    "godzilla save the earth": 6.198,
+    "godzilla destroy all monsters melee remastered": 6.198,
+    "kingdom come deliverance": 6.075,
+    "dawn of war iv": 5.997,
+    "assetto corsa rally": 5.997,
+    "zelda": 5.956,
+    "yu gi oh master duel": 5.875,
+    "auto battler": 5.543,
+    "rpg": 5.543,
+    "fairgame": 5.419,
+    "ps1 game": 5.317,
+    "small soldiers": 5.174,
+    "megaman legends": 5.159,
+    "dragonkin the banished": 5.127,
+    "flesh wire": 5.078,
+    "elder scrolls": 4.871,
+    "topdeck automat": 4.584,
+    "phantom blade zero": 4.401,
+    "crazy taxi world tour": 4.091,
+    "reality drift": 4.045,
+    "warhammer 40 000 dark heresy": 3.639,
+    "sea of remnants": 3.565,
+    "kingdom hearts 3": 3.485,
+    "call of duty": 3.485,
+    "call of duty 1": 3.485,
+    "marvels wolverine": 3.303,
+    "007 first light": 3.303,
+    "horde": 3.303,
+    "ebbtide": 3.303,
+    "supermarket simulator": 3.197,
+    "mortal kombat": 3.079,
+    "nhl 26": 2.946,
+    "rockstar games": 2.792,
+    "game that i bought 4 times": 2.792,
+    "nba 2k27": 2.609,
+    "grand theft auto v": 2.609,
+    "san andreas": 2.609,
+    "smite 2": 2.386,
+    "dualsense": 2.386,
+    "grand theft auto 5": 2.099
+  }
+}
