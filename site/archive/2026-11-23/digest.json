@@ -1,0 +1,589 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T14:00:11.188320+00:00",
+  "model": "llama3.1:8b",
+  "baseline_date": "2026-11-17",
+  "posts_analyzed": 250,
+  "brief": "This week's gaming discussion on Reddit is buzzing about GTA 6 on PlayStation, Xbox, and PC, as well as LA Noire 2 on PlayStation and PC, with some speculating about the Zodiac Killer in San Francisco. The KOTOR series is also a topic of interest, with possible announcements and replay achievements. Other games like Gears of War, Serious Sam Fusion, and The Witcher 4 are also being discussed on various platforms.",
+  "games": [
+    {
+      "key": "gta 6",
+      "name": "GTA 6",
+      "trending_score": 16.34,
+      "heat": 109.29,
+      "boost": 1.56,
+      "change_pct": 56,
+      "is_new": false,
+      "mentions": 20,
+      "engagement": 16825,
+      "platforms": {
+        "playstation": {
+          "mentions": 9,
+          "engagement": 12019
+        },
+        "general": {
+          "mentions": 6,
+          "engagement": 4726
+        },
+        "xbox": {
+          "mentions": 5,
+          "engagement": 80
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Rockstar explains why you can\u2019t play darts in GTA 6: \u2018We don\u2019t have unlimited time\u2019",
+          "url": "https://reddit.com/r/PS5/comments/1y2suji/rockstar_explains_why_you_cant_play_darts_in_gta/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 6102,
+          "num_comments": 1228
+        },
+        {
+          "title": "Cyberleek build got out for GTA 6",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1y0id1i/cyberleek_build_got_out_for_gta_6/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 2486,
+          "num_comments": 1138
+        },
+        {
+          "title": "'GTA 6' Players Can't Stop Doomscrolling In The Game: 'Art Really Does Imitate Life'",
+          "url": "https://reddit.com/r/PS5/comments/1y2tm9k/gta_6_players_cant_stop_doomscrolling_in_the_game/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 3102,
+          "num_comments": 303
+        }
+      ],
+      "rank": 1,
+      "why": "GTA 6 gameplay and features are being discussed"
+    },
+    {
+      "key": "la noire 2",
+      "name": "LA Noire 2",
+      "trending_score": 10.63,
+      "heat": 18.07,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 7553,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 5945
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 1608
+        }
+      },
+      "top_posts": [
+        {
+          "title": "An old leak claiming Rockstar\u2019s next game is LA Noire 2 has resurfaced, claiming the sequel centers on the Zodiac Killer in San Francisco The same source described GTA 6\u2019s ending back in 2023, and players say it matches the finished game",
+          "url": "https://reddit.com/r/PS5/comments/1y2ekf8/an_old_leak_claiming_rockstars_next_game_is_la/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 5603,
+          "num_comments": 342
+        },
+        {
+          "title": "The User from gtaForums in 2023 who mentioned LA noire 2 as R* next game release leaked gta 6 endings and many details correct, adding more legitimacy to the noire leak",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1y1kjtn/the_user_from_gtaforums_in_2023_who_mentioned_la/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 1375,
+          "num_comments": 233
+        }
+      ],
+      "rank": 2,
+      "why": "A 2023 leak about Rockstar's next game, possibly LA Noire 2, has resurfaced, claiming it's about the Zodiac Killer in San Francisco."
+    },
+    {
+      "key": "kotor",
+      "name": "KOTOR",
+      "trending_score": 8.94,
+      "heat": 12.79,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 459,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 459
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Mike straw (executive editor at InsiderGaming) possibly hinting at something kotor related",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1y1drji/mike_straw_executive_editor_at_insidergaming/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 229,
+          "num_comments": 70
+        },
+        {
+          "title": "KOTOR replay accomplishment.",
+          "url": "https://reddit.com/r/gaming/comments/1y2vrpy/kotor_replay_accomplishment/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 142,
+          "num_comments": 18
+        }
+      ],
+      "rank": 3,
+      "why": "Possible KOTOR related announcement and a player's KOTOR replay achievement."
+    },
+    {
+      "key": "xcom",
+      "name": "XCOM",
+      "trending_score": 8.72,
+      "heat": 12.17,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 1107,
+      "platforms": {
+        "general": {
+          "mentions": 2,
+          "engagement": 1107
+        }
+      },
+      "top_posts": [
+        {
+          "title": "[Jason Schreier]  BREAKING: Civilization developer Firaxis Games is cutting 1/3 of staff, or around 60 people, sources tell Bloomberg. Studio head also departing. A new XCOM game has been facing development struggles and recently missed a key milestone.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xyoxmj/jason_schreier_breaking_civilization_developer/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 794,
+          "num_comments": 290
+        },
+        {
+          "title": "Cardslinger - CAPSLOCK Interactive - XCOM meets Slay the Spire in a weird western",
+          "url": "https://reddit.com/r/Games/comments/1y2wlpj/cardslinger_capslock_interactive_xcom_meets_slay/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 16,
+          "num_comments": 7
+        }
+      ],
+      "rank": 4,
+      "why": "Firaxis Games' staff cuts and a new XCOM game's development issues are being discussed."
+    },
+    {
+      "key": "gears of war",
+      "name": "Gears of War",
+      "trending_score": 8.49,
+      "heat": 11.52,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 289,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 231
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 58
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Gears of War: E-Day skipped PlayStation and still became October\u2019s No. 2 best-selling game in the US",
+          "url": "https://reddit.com/r/pcgaming/comments/1y37mu7/gears_of_war_eday_skipped_playstation_and_still/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 170,
+          "num_comments": 61
+        },
+        {
+          "title": "Gears of War: E-Day skipped PlayStation and still became October\u2019s No. 2 best-selling game in the US",
+          "url": "https://reddit.com/r/Games/comments/1y37nia/gears_of_war_eday_skipped_playstation_and_still/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 0,
+          "num_comments": 58
+        }
+      ],
+      "rank": 5,
+      "why": "The game's sales performance in the US is being discussed."
+    },
+    {
+      "key": "serious sam fusion",
+      "name": "Serious Sam Fusion",
+      "trending_score": 8.35,
+      "heat": 11.16,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 2,
+      "engagement": 196,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 114
+        },
+        "general": {
+          "mentions": 1,
+          "engagement": 82
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Serious Sam Fusion - Serious Sam Fusion - Beta No More!",
+          "url": "https://reddit.com/r/pcgaming/comments/1y2vxnj/serious_sam_fusion_serious_sam_fusion_beta_no_more/",
+          "subreddit": "pcgaming",
+          "platform": "pc",
+          "score": 107,
+          "num_comments": 7
+        },
+        {
+          "title": "Serious Sam Fusion: Out Of Beta",
+          "url": "https://reddit.com/r/Games/comments/1y2vqid/serious_sam_fusion_out_of_beta/",
+          "subreddit": "Games",
+          "platform": "general",
+          "score": 68,
+          "num_comments": 14
+        }
+      ],
+      "rank": 6,
+      "why": "The beta period for Serious Sam Fusion has ended."
+    },
+    {
+      "key": "elden ring",
+      "name": "Elden Ring",
+      "trending_score": 7.49,
+      "heat": 8.97,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 2903,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2903
+        }
+      },
+      "top_posts": [
+        {
+          "title": "There's a statue of an Elden Ring enemy in Bloodborne",
+          "url": "https://reddit.com/r/gaming/comments/1y2w6vz/theres_a_statue_of_an_elden_ring_enemy_in/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 2736,
+          "num_comments": 167
+        }
+      ],
+      "rank": 7,
+      "why": "Similarities and connections between Elden Ring and Bloodborne"
+    },
+    {
+      "key": "bloodborne",
+      "name": "Bloodborne",
+      "trending_score": 7.49,
+      "heat": 8.97,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 2903,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2903
+        }
+      },
+      "top_posts": [
+        {
+          "title": "There's a statue of an Elden Ring enemy in Bloodborne",
+          "url": "https://reddit.com/r/gaming/comments/1y2w6vz/theres_a_statue_of_an_elden_ring_enemy_in/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 2736,
+          "num_comments": 167
+        }
+      ],
+      "rank": 8,
+      "why": "Similarities between Bloodborne and Elden Ring are being discussed."
+    },
+    {
+      "key": "star citizen",
+      "name": "Star Citizen",
+      "trending_score": 7.48,
+      "heat": 8.95,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 2828,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 2828
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Star Citizen devs every time a new AAA game drops",
+          "url": "https://reddit.com/r/gaming/comments/1y3efke/star_citizen_devs_every_time_a_new_aaa_game_drops/",
+          "subreddit": "gaming",
+          "platform": "general",
+          "score": 2454,
+          "num_comments": 374
+        }
+      ],
+      "rank": 9,
+      "why": "Comparison of Star Citizen's development pace to other AAA games."
+    },
+    {
+      "key": "the witcher 4",
+      "name": "The Witcher 4",
+      "trending_score": 7.23,
+      "heat": 8.35,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 1562,
+      "platforms": {
+        "playstation": {
+          "mentions": 1,
+          "engagement": 1562
+        }
+      },
+      "top_posts": [
+        {
+          "title": "The Witcher 4 gets official update on physical release - CEO Micha\u0142 Nowakowski says that CD Projekt would still like to release a physical version of The Witcher 4 - \"We\u2019re big fans of people having access to tangible collectible things\u201d",
+          "url": "https://reddit.com/r/PS5/comments/1y2lxwa/the_witcher_4_gets_official_update_on_physical/",
+          "subreddit": "PS5",
+          "platform": "playstation",
+          "score": 1405,
+          "num_comments": 157
+        }
+      ],
+      "rank": 10,
+      "why": "Physical release of The Witcher 4"
+    },
+    {
+      "key": "civilization",
+      "name": "Civilization",
+      "trending_score": 7.07,
+      "heat": 7.99,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 1084,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 1084
+        }
+      },
+      "top_posts": [
+        {
+          "title": "[Jason Schreier]  BREAKING: Civilization developer Firaxis Games is cutting 1/3 of staff, or around 60 people, sources tell Bloomberg. Studio head also departing. A new XCOM game has been facing development struggles and recently missed a key milestone.",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1xyoxmj/jason_schreier_breaking_civilization_developer/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 794,
+          "num_comments": 290
+        }
+      ],
+      "rank": 11,
+      "why": "Layoffs and studio changes at Firaxis Games, the developer of Civilization."
+    },
+    {
+      "key": "steam machine",
+      "name": "Steam Machine",
+      "trending_score": 6.99,
+      "heat": 7.82,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 911,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 911
+        }
+      },
+      "top_posts": [
+        {
+          "title": "To all the people who bought the steam machine are you satisfied with your purchase or you regret it ?",
+          "url": "https://reddit.com/r/Steam/comments/1y3dmd7/to_all_the_people_who_bought_the_steam_machine/",
+          "subreddit": "Steam",
+          "platform": "pc",
+          "score": 733,
+          "num_comments": 178
+        }
+      ],
+      "rank": 12,
+      "why": "People are discussing their satisfaction or regret with purchasing the Steam Machine."
+    },
+    {
+      "key": "kotor remake",
+      "name": "Kotor Remake",
+      "trending_score": 6.98,
+      "heat": 7.8,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 899,
+      "platforms": {
+        "general": {
+          "mentions": 1,
+          "engagement": 899
+        }
+      },
+      "top_posts": [
+        {
+          "title": "Kotor Remake likely to be Re-Revealed at The Game Awards",
+          "url": "https://reddit.com/r/GamingLeaksAndRumours/comments/1y0o8w0/kotor_remake_likely_to_be_rerevealed_at_the_game/",
+          "subreddit": "GamingLeaksAndRumours",
+          "platform": "general",
+          "score": 733,
+          "num_comments": 166
+        }
+      ],
+      "rank": 13,
+      "why": "Potential reveal of a Kotor Remake at The Game Awards"
+    },
+    {
+      "key": "cs2",
+      "name": "CS2",
+      "trending_score": 6.97,
+      "heat": 7.77,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 871,
+      "platforms": {
+        "pc": {
+          "mentions": 1,
+          "engagement": 871
+        }
+      },
+      "top_posts": [
+        {
+          "title": "CS2 is first game which have 10m reviews now (and still 85% are positive!)",
+          "url": "https://reddit.com/r/Steam/comments/1y2znx1/cs2_is_first_game_which_have_10m_reviews_now_and/",
+          "subreddit": "Steam",
+          "platform": "pc",
+          "score": 786,
+          "num_comments": 85
+        }
+      ],
+      "rank": 14,
+      "why": "The game's review count has reached 10 million, with 85% of them being positive."
+    },
+    {
+      "key": "gta 4",
+      "name": "GTA 4",
+      "trending_score": 6.8,
+      "heat": 7.4,
+      "boost": 2.5,
+      "change_pct": null,
+      "is_new": true,
+      "mentions": 1,
+      "engagement": 601,
+      "platforms": {
+        "xbox": {
+          "mentions": 1,
+          "engagement": 601
+        }
+      },
+      "top_posts": [
+        {
+          "title": "GTA 4-6 revenue in the first 24 hours",
+          "url": "https://reddit.com/r/xbox/comments/1y34yc1/gta_46_revenue_in_the_first_24_hours/",
+          "subreddit": "xbox",
+          "platform": "xbox",
+          "score": 541,
+          "num_comments": 60
+        }
+      ],
+      "rank": 15,
+      "why": "Revenue figures for GTA 4 and its sequels in the first 24 hours are being discussed."
+    }
+  ],
+  "heat_index": {
+    "gta 6": 109.286,
+    "la noire 2": 18.074,
+    "elden ring": 8.974,
+    "bloodborne": 8.974,
+    "star citizen": 8.948,
+    "grand theft auto vi": 15.788,
+    "the witcher 4": 8.354,
+    "civilization": 7.989,
+    "xcom": 12.167,
+    "majoras mask": 7.975,
+    "steam machine": 7.816,
+    "kotor remake": 7.802,
+    "cs2": 7.771,
+    "star wars galactic racer": 7.752,
+    "gta 4": 7.4,
+    "unreal engine 6": 7.366,
+    "fallout": 14.194,
+    "ghost of tsushima": 6.829,
+    "days gone": 6.829,
+    "metro exodus": 6.829,
+    "lego james bond": 6.817,
+    "xenogears": 6.784,
+    "atlas": 6.784,
+    "kotor": 12.785,
+    "the walking dead": 6.697,
+    "nioh 3": 6.598,
+    "heroes of might and magic iii": 6.481,
+    "gears of war": 11.524,
+    "dbd": 6.293,
+    "spyro a realm beyond": 6.288,
+    "lego city undercover": 6.081,
+    "gta vi": 27.41,
+    "sword of the sea": 5.812,
+    "serious sam fusion": 11.164,
+    "ring of red": 5.682,
+    "half life": 5.19,
+    "project ts": 4.807,
+    "verho whispers of the wind": 4.761,
+    "exterminauts": 4.638,
+    "the game": 4.367,
+    "slay the spire": 4.178,
+    "winx club": 4.135,
+    "brigador killers": 4.045,
+    "gta": 3.944,
+    "delta force": 3.89,
+    "zenith port": 3.89,
+    "series x": 3.833,
+    "cyberleek": 3.773,
+    "lucia": 3.773,
+    "jason": 3.773,
+    "gta6": 3.639,
+    "clockwork revolution": 3.639,
+    "gran turismo 7": 3.565,
+    "bf2042": 3.565,
+    "the road of dust and sorrow": 3.485,
+    "half life 3": 3.485,
+    "shadow warrior 3": 3.398,
+    "red dead redemption": 2.946,
+    "grand theft auto v": 2.792,
+    "gta v enhanced": 2.792,
+    "edictum": 2.792,
+    "fishing the deep": 2.792,
+    "pinbomb": 2.792,
+    "grand theft auto 6": 2.792,
+    "dorts a darts roguelike": 2.609,
+    "paintings": 2.609
+  }
+}
